@@ -1,0 +1,4802 @@
+[
+  {
+    "ts": 1700000267,
+    "module": "monitor",
+    "event": "CACHE_HIT",
+    "seq": "monitor_CACHE_HIT",
+    "duration_ms": 4492,
+    "status": "ok"
+  },
+  {
+    "ts": 1700000382,
+    "module": "monitor",
+    "event": "LOGIN",
+    "seq": "monitor_LOGIN",
+    "duration_ms": 1291,
+    "status": "ok"
+  },
+  {
+    "ts": 1700000569,
+    "module": "auth",
+    "event": "LOGOUT",
+    "seq": "auth_LOGOUT",
+    "duration_ms": 4932,
+    "status": "ok"
+  },
+  {
+    "ts": 1700000683,
+    "module": "auth",
+    "event": "TIMEOUT",
+    "seq": "auth_TIMEOUT",
+    "duration_ms": 1294,
+    "status": "ok"
+  },
+  {
+    "ts": 1700000695,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 2265,
+    "status": "ok"
+  },
+  {
+    "ts": 1700000988,
+    "module": "scheduler",
+    "event": "ERROR",
+    "seq": "scheduler_ERROR",
+    "duration_ms": 2812,
+    "status": "err"
+  },
+  {
+    "ts": 1700001093,
+    "module": "api",
+    "event": "RETRY",
+    "seq": "api_RETRY",
+    "duration_ms": 3685,
+    "status": "ok"
+  },
+  {
+    "ts": 1700001117,
+    "module": "scheduler",
+    "event": "CACHE_HIT",
+    "seq": "scheduler_CACHE_HIT",
+    "duration_ms": 1285,
+    "status": "ok"
+  },
+  {
+    "ts": 1700001161,
+    "module": "worker",
+    "event": "QUERY",
+    "seq": "worker_QUERY",
+    "duration_ms": 2124,
+    "status": "ok"
+  },
+  {
+    "ts": 1700001366,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 1334,
+    "status": "ok"
+  },
+  {
+    "ts": 1700001412,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 2573,
+    "status": "ok"
+  },
+  {
+    "ts": 1700001493,
+    "module": "monitor",
+    "event": "RETRY",
+    "seq": "monitor_RETRY",
+    "duration_ms": 2288,
+    "status": "ok"
+  },
+  {
+    "ts": 1700001658,
+    "module": "api",
+    "event": "UPDATE",
+    "seq": "api_UPDATE",
+    "duration_ms": 3636,
+    "status": "ok"
+  },
+  {
+    "ts": 1700001698,
+    "module": "cache",
+    "event": "AUTH_FAIL",
+    "seq": "cache_AUTH_FAIL",
+    "duration_ms": 2778,
+    "status": "err"
+  },
+  {
+    "ts": 1700001929,
+    "module": "worker",
+    "event": "AUTH_FAIL",
+    "seq": "worker_AUTH_FAIL",
+    "duration_ms": 445,
+    "status": "err"
+  },
+  {
+    "ts": 1700002089,
+    "module": "auth",
+    "event": "DELETE",
+    "seq": "auth_DELETE",
+    "duration_ms": 1754,
+    "status": "ok"
+  },
+  {
+    "ts": 1700002301,
+    "module": "api",
+    "event": "ERROR",
+    "seq": "api_ERROR",
+    "duration_ms": 105,
+    "status": "err"
+  },
+  {
+    "ts": 1700002355,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 1233,
+    "status": "ok"
+  },
+  {
+    "ts": 1700002648,
+    "module": "cache",
+    "event": "LOGOUT",
+    "seq": "cache_LOGOUT",
+    "duration_ms": 2348,
+    "status": "ok"
+  },
+  {
+    "ts": 1700002741,
+    "module": "gateway",
+    "event": "DELETE",
+    "seq": "gateway_DELETE",
+    "duration_ms": 4971,
+    "status": "ok"
+  },
+  {
+    "ts": 1700002882,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 4838,
+    "status": "ok"
+  },
+  {
+    "ts": 1700003131,
+    "module": "api",
+    "event": "RETRY",
+    "seq": "api_RETRY",
+    "duration_ms": 2358,
+    "status": "ok"
+  },
+  {
+    "ts": 1700003247,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 865,
+    "status": "ok"
+  },
+  {
+    "ts": 1700003295,
+    "module": "monitor",
+    "event": "TIMEOUT",
+    "seq": "monitor_TIMEOUT",
+    "duration_ms": 2143,
+    "status": "ok"
+  },
+  {
+    "ts": 1700003349,
+    "module": "gateway",
+    "event": "QUERY",
+    "seq": "gateway_QUERY",
+    "duration_ms": 4344,
+    "status": "ok"
+  },
+  {
+    "ts": 1700003553,
+    "module": "auth",
+    "event": "ERROR",
+    "seq": "auth_ERROR",
+    "duration_ms": 1372,
+    "status": "err"
+  },
+  {
+    "ts": 1700003688,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 2808,
+    "status": "ok"
+  },
+  {
+    "ts": 1700003856,
+    "module": "api",
+    "event": "UPDATE",
+    "seq": "api_UPDATE",
+    "duration_ms": 1066,
+    "status": "ok"
+  },
+  {
+    "ts": 1700003933,
+    "module": "db",
+    "event": "LOGOUT",
+    "seq": "db_LOGOUT",
+    "duration_ms": 2978,
+    "status": "ok"
+  },
+  {
+    "ts": 1700004209,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 4221,
+    "status": "ok"
+  },
+  {
+    "ts": 1700004254,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 2642,
+    "status": "ok"
+  },
+  {
+    "ts": 1700004361,
+    "module": "db",
+    "event": "TIMEOUT",
+    "seq": "db_TIMEOUT",
+    "duration_ms": 430,
+    "status": "ok"
+  },
+  {
+    "ts": 1700004445,
+    "module": "api",
+    "event": "ERROR",
+    "seq": "api_ERROR",
+    "duration_ms": 3979,
+    "status": "err"
+  },
+  {
+    "ts": 1700004503,
+    "module": "db",
+    "event": "AUTH_FAIL",
+    "seq": "db_AUTH_FAIL",
+    "duration_ms": 3700,
+    "status": "err"
+  },
+  {
+    "ts": 1700004780,
+    "module": "worker",
+    "event": "DELETE",
+    "seq": "worker_DELETE",
+    "duration_ms": 3375,
+    "status": "ok"
+  },
+  {
+    "ts": 1700004883,
+    "module": "scheduler",
+    "event": "LOGOUT",
+    "seq": "scheduler_LOGOUT",
+    "duration_ms": 1699,
+    "status": "ok"
+  },
+  {
+    "ts": 1700005084,
+    "module": "api",
+    "event": "DELETE",
+    "seq": "api_DELETE",
+    "duration_ms": 168,
+    "status": "ok"
+  },
+  {
+    "ts": 1700005097,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 2078,
+    "status": "ok"
+  },
+  {
+    "ts": 1700005385,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 2547,
+    "status": "ok"
+  },
+  {
+    "ts": 1700005412,
+    "module": "worker",
+    "event": "CACHE_HIT",
+    "seq": "worker_CACHE_HIT",
+    "duration_ms": 1073,
+    "status": "ok"
+  },
+  {
+    "ts": 1700005672,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 4570,
+    "status": "ok"
+  },
+  {
+    "ts": 1700005962,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 472,
+    "status": "ok"
+  },
+  {
+    "ts": 1700006092,
+    "module": "gateway",
+    "event": "UPDATE",
+    "seq": "gateway_UPDATE",
+    "duration_ms": 4746,
+    "status": "ok"
+  },
+  {
+    "ts": 1700006367,
+    "module": "auth",
+    "event": "AUTH_FAIL",
+    "seq": "auth_AUTH_FAIL",
+    "duration_ms": 4297,
+    "status": "err"
+  },
+  {
+    "ts": 1700006554,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 2175,
+    "status": "err"
+  },
+  {
+    "ts": 1700006831,
+    "module": "scheduler",
+    "event": "RETRY",
+    "seq": "scheduler_RETRY",
+    "duration_ms": 1108,
+    "status": "ok"
+  },
+  {
+    "ts": 1700007030,
+    "module": "db",
+    "event": "TIMEOUT",
+    "seq": "db_TIMEOUT",
+    "duration_ms": 4043,
+    "status": "ok"
+  },
+  {
+    "ts": 1700007165,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 4430,
+    "status": "ok"
+  },
+  {
+    "ts": 1700007274,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 1182,
+    "status": "ok"
+  },
+  {
+    "ts": 1700007398,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 2946,
+    "status": "ok"
+  },
+  {
+    "ts": 1700007516,
+    "module": "monitor",
+    "event": "LOGIN",
+    "seq": "monitor_LOGIN",
+    "duration_ms": 4372,
+    "status": "ok"
+  },
+  {
+    "ts": 1700007572,
+    "module": "cache",
+    "event": "DELETE",
+    "seq": "cache_DELETE",
+    "duration_ms": 4486,
+    "status": "ok"
+  },
+  {
+    "ts": 1700007812,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 1354,
+    "status": "ok"
+  },
+  {
+    "ts": 1700008102,
+    "module": "worker",
+    "event": "CACHE_HIT",
+    "seq": "worker_CACHE_HIT",
+    "duration_ms": 3639,
+    "status": "ok"
+  },
+  {
+    "ts": 1700008313,
+    "module": "cache",
+    "event": "AUTH_FAIL",
+    "seq": "cache_AUTH_FAIL",
+    "duration_ms": 4339,
+    "status": "err"
+  },
+  {
+    "ts": 1700008461,
+    "module": "scheduler",
+    "event": "LOGOUT",
+    "seq": "scheduler_LOGOUT",
+    "duration_ms": 2801,
+    "status": "ok"
+  },
+  {
+    "ts": 1700008553,
+    "module": "worker",
+    "event": "UPDATE",
+    "seq": "worker_UPDATE",
+    "duration_ms": 4267,
+    "status": "ok"
+  },
+  {
+    "ts": 1700008643,
+    "module": "monitor",
+    "event": "UPDATE",
+    "seq": "monitor_UPDATE",
+    "duration_ms": 3847,
+    "status": "ok"
+  },
+  {
+    "ts": 1700008731,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 1695,
+    "status": "ok"
+  },
+  {
+    "ts": 1700008928,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 3522,
+    "status": "ok"
+  },
+  {
+    "ts": 1700009108,
+    "module": "api",
+    "event": "RETRY",
+    "seq": "api_RETRY",
+    "duration_ms": 771,
+    "status": "ok"
+  },
+  {
+    "ts": 1700009289,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 1809,
+    "status": "ok"
+  },
+  {
+    "ts": 1700009407,
+    "module": "gateway",
+    "event": "DELETE",
+    "seq": "gateway_DELETE",
+    "duration_ms": 732,
+    "status": "ok"
+  },
+  {
+    "ts": 1700009554,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 1523,
+    "status": "ok"
+  },
+  {
+    "ts": 1700009702,
+    "module": "gateway",
+    "event": "DELETE",
+    "seq": "gateway_DELETE",
+    "duration_ms": 1228,
+    "status": "ok"
+  },
+  {
+    "ts": 1700009890,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 4891,
+    "status": "ok"
+  },
+  {
+    "ts": 1700010072,
+    "module": "db",
+    "event": "LOGOUT",
+    "seq": "db_LOGOUT",
+    "duration_ms": 4545,
+    "status": "ok"
+  },
+  {
+    "ts": 1700010340,
+    "module": "scheduler",
+    "event": "QUERY",
+    "seq": "scheduler_QUERY",
+    "duration_ms": 622,
+    "status": "ok"
+  },
+  {
+    "ts": 1700010526,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 1357,
+    "status": "ok"
+  },
+  {
+    "ts": 1700010668,
+    "module": "cache",
+    "event": "QUERY",
+    "seq": "cache_QUERY",
+    "duration_ms": 2861,
+    "status": "ok"
+  },
+  {
+    "ts": 1700010961,
+    "module": "cache",
+    "event": "QUERY",
+    "seq": "cache_QUERY",
+    "duration_ms": 4784,
+    "status": "ok"
+  },
+  {
+    "ts": 1700011213,
+    "module": "gateway",
+    "event": "TIMEOUT",
+    "seq": "gateway_TIMEOUT",
+    "duration_ms": 3430,
+    "status": "ok"
+  },
+  {
+    "ts": 1700011449,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 4916,
+    "status": "ok"
+  },
+  {
+    "ts": 1700011653,
+    "module": "cache",
+    "event": "LOGIN",
+    "seq": "cache_LOGIN",
+    "duration_ms": 3729,
+    "status": "ok"
+  },
+  {
+    "ts": 1700011705,
+    "module": "scheduler",
+    "event": "RETRY",
+    "seq": "scheduler_RETRY",
+    "duration_ms": 1060,
+    "status": "ok"
+  },
+  {
+    "ts": 1700011873,
+    "module": "monitor",
+    "event": "DELETE",
+    "seq": "monitor_DELETE",
+    "duration_ms": 2001,
+    "status": "ok"
+  },
+  {
+    "ts": 1700012061,
+    "module": "db",
+    "event": "ERROR",
+    "seq": "db_ERROR",
+    "duration_ms": 2786,
+    "status": "err"
+  },
+  {
+    "ts": 1700012341,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 2380,
+    "status": "ok"
+  },
+  {
+    "ts": 1700012357,
+    "module": "cache",
+    "event": "ERROR",
+    "seq": "cache_ERROR",
+    "duration_ms": 3343,
+    "status": "err"
+  },
+  {
+    "ts": 1700012518,
+    "module": "gateway",
+    "event": "TIMEOUT",
+    "seq": "gateway_TIMEOUT",
+    "duration_ms": 1158,
+    "status": "ok"
+  },
+  {
+    "ts": 1700012683,
+    "module": "scheduler",
+    "event": "RETRY",
+    "seq": "scheduler_RETRY",
+    "duration_ms": 2214,
+    "status": "ok"
+  },
+  {
+    "ts": 1700012754,
+    "module": "monitor",
+    "event": "UPDATE",
+    "seq": "monitor_UPDATE",
+    "duration_ms": 3054,
+    "status": "ok"
+  },
+  {
+    "ts": 1700013023,
+    "module": "api",
+    "event": "RETRY",
+    "seq": "api_RETRY",
+    "duration_ms": 2983,
+    "status": "ok"
+  },
+  {
+    "ts": 1700013034,
+    "module": "cache",
+    "event": "QUERY",
+    "seq": "cache_QUERY",
+    "duration_ms": 2617,
+    "status": "ok"
+  },
+  {
+    "ts": 1700013182,
+    "module": "cache",
+    "event": "CACHE_HIT",
+    "seq": "cache_CACHE_HIT",
+    "duration_ms": 2556,
+    "status": "ok"
+  },
+  {
+    "ts": 1700013396,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 3708,
+    "status": "ok"
+  },
+  {
+    "ts": 1700013554,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 783,
+    "status": "err"
+  },
+  {
+    "ts": 1700013824,
+    "module": "worker",
+    "event": "QUERY",
+    "seq": "worker_QUERY",
+    "duration_ms": 2974,
+    "status": "ok"
+  },
+  {
+    "ts": 1700014029,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 3553,
+    "status": "ok"
+  },
+  {
+    "ts": 1700014212,
+    "module": "scheduler",
+    "event": "QUERY",
+    "seq": "scheduler_QUERY",
+    "duration_ms": 2275,
+    "status": "ok"
+  },
+  {
+    "ts": 1700014305,
+    "module": "monitor",
+    "event": "TIMEOUT",
+    "seq": "monitor_TIMEOUT",
+    "duration_ms": 2569,
+    "status": "ok"
+  },
+  {
+    "ts": 1700014569,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 4911,
+    "status": "ok"
+  },
+  {
+    "ts": 1700014594,
+    "module": "auth",
+    "event": "CACHE_HIT",
+    "seq": "auth_CACHE_HIT",
+    "duration_ms": 1449,
+    "status": "ok"
+  },
+  {
+    "ts": 1700014736,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 654,
+    "status": "ok"
+  },
+  {
+    "ts": 1700014984,
+    "module": "api",
+    "event": "RETRY",
+    "seq": "api_RETRY",
+    "duration_ms": 1182,
+    "status": "ok"
+  },
+  {
+    "ts": 1700015273,
+    "module": "monitor",
+    "event": "DELETE",
+    "seq": "monitor_DELETE",
+    "duration_ms": 2249,
+    "status": "ok"
+  },
+  {
+    "ts": 1700015395,
+    "module": "scheduler",
+    "event": "CACHE_HIT",
+    "seq": "scheduler_CACHE_HIT",
+    "duration_ms": 385,
+    "status": "ok"
+  },
+  {
+    "ts": 1700015469,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 128,
+    "status": "ok"
+  },
+  {
+    "ts": 1700015649,
+    "module": "scheduler",
+    "event": "TIMEOUT",
+    "seq": "scheduler_TIMEOUT",
+    "duration_ms": 997,
+    "status": "ok"
+  },
+  {
+    "ts": 1700015806,
+    "module": "api",
+    "event": "TIMEOUT",
+    "seq": "api_TIMEOUT",
+    "duration_ms": 4736,
+    "status": "ok"
+  },
+  {
+    "ts": 1700015883,
+    "module": "auth",
+    "event": "TIMEOUT",
+    "seq": "auth_TIMEOUT",
+    "duration_ms": 2655,
+    "status": "ok"
+  },
+  {
+    "ts": 1700016149,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 2359,
+    "status": "ok"
+  },
+  {
+    "ts": 1700016198,
+    "module": "api",
+    "event": "LOGOUT",
+    "seq": "api_LOGOUT",
+    "duration_ms": 4514,
+    "status": "ok"
+  },
+  {
+    "ts": 1700016383,
+    "module": "monitor",
+    "event": "RETRY",
+    "seq": "monitor_RETRY",
+    "duration_ms": 3865,
+    "status": "ok"
+  },
+  {
+    "ts": 1700016547,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 1599,
+    "status": "ok"
+  },
+  {
+    "ts": 1700016789,
+    "module": "gateway",
+    "event": "LOGOUT",
+    "seq": "gateway_LOGOUT",
+    "duration_ms": 684,
+    "status": "ok"
+  },
+  {
+    "ts": 1700016983,
+    "module": "worker",
+    "event": "AUTH_FAIL",
+    "seq": "worker_AUTH_FAIL",
+    "duration_ms": 3066,
+    "status": "err"
+  },
+  {
+    "ts": 1700016994,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 4856,
+    "status": "ok"
+  },
+  {
+    "ts": 1700017208,
+    "module": "api",
+    "event": "LOGIN",
+    "seq": "api_LOGIN",
+    "duration_ms": 2334,
+    "status": "ok"
+  },
+  {
+    "ts": 1700017363,
+    "module": "cache",
+    "event": "QUERY",
+    "seq": "cache_QUERY",
+    "duration_ms": 719,
+    "status": "ok"
+  },
+  {
+    "ts": 1700017459,
+    "module": "gateway",
+    "event": "RETRY",
+    "seq": "gateway_RETRY",
+    "duration_ms": 2827,
+    "status": "ok"
+  },
+  {
+    "ts": 1700017639,
+    "module": "gateway",
+    "event": "LOGOUT",
+    "seq": "gateway_LOGOUT",
+    "duration_ms": 2283,
+    "status": "ok"
+  },
+  {
+    "ts": 1700017769,
+    "module": "scheduler",
+    "event": "ERROR",
+    "seq": "scheduler_ERROR",
+    "duration_ms": 542,
+    "status": "err"
+  },
+  {
+    "ts": 1700018001,
+    "module": "cache",
+    "event": "LOGOUT",
+    "seq": "cache_LOGOUT",
+    "duration_ms": 3084,
+    "status": "ok"
+  },
+  {
+    "ts": 1700018268,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 1912,
+    "status": "ok"
+  },
+  {
+    "ts": 1700018428,
+    "module": "worker",
+    "event": "LOGOUT",
+    "seq": "worker_LOGOUT",
+    "duration_ms": 855,
+    "status": "ok"
+  },
+  {
+    "ts": 1700018728,
+    "module": "worker",
+    "event": "QUERY",
+    "seq": "worker_QUERY",
+    "duration_ms": 492,
+    "status": "ok"
+  },
+  {
+    "ts": 1700018743,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 4056,
+    "status": "ok"
+  },
+  {
+    "ts": 1700018937,
+    "module": "worker",
+    "event": "LOGOUT",
+    "seq": "worker_LOGOUT",
+    "duration_ms": 1900,
+    "status": "ok"
+  },
+  {
+    "ts": 1700019117,
+    "module": "auth",
+    "event": "DELETE",
+    "seq": "auth_DELETE",
+    "duration_ms": 3121,
+    "status": "ok"
+  },
+  {
+    "ts": 1700019358,
+    "module": "gateway",
+    "event": "UPDATE",
+    "seq": "gateway_UPDATE",
+    "duration_ms": 4807,
+    "status": "ok"
+  },
+  {
+    "ts": 1700019577,
+    "module": "cache",
+    "event": "ERROR",
+    "seq": "cache_ERROR",
+    "duration_ms": 1659,
+    "status": "err"
+  },
+  {
+    "ts": 1700019656,
+    "module": "api",
+    "event": "TIMEOUT",
+    "seq": "api_TIMEOUT",
+    "duration_ms": 2566,
+    "status": "ok"
+  },
+  {
+    "ts": 1700019719,
+    "module": "scheduler",
+    "event": "CACHE_HIT",
+    "seq": "scheduler_CACHE_HIT",
+    "duration_ms": 1860,
+    "status": "ok"
+  },
+  {
+    "ts": 1700019873,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 3569,
+    "status": "ok"
+  },
+  {
+    "ts": 1700020017,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 2506,
+    "status": "ok"
+  },
+  {
+    "ts": 1700020232,
+    "module": "api",
+    "event": "LOGIN",
+    "seq": "api_LOGIN",
+    "duration_ms": 4065,
+    "status": "ok"
+  },
+  {
+    "ts": 1700020416,
+    "module": "auth",
+    "event": "CACHE_HIT",
+    "seq": "auth_CACHE_HIT",
+    "duration_ms": 2662,
+    "status": "ok"
+  },
+  {
+    "ts": 1700020639,
+    "module": "monitor",
+    "event": "TIMEOUT",
+    "seq": "monitor_TIMEOUT",
+    "duration_ms": 4933,
+    "status": "ok"
+  },
+  {
+    "ts": 1700020646,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 2436,
+    "status": "ok"
+  },
+  {
+    "ts": 1700020875,
+    "module": "scheduler",
+    "event": "AUTH_FAIL",
+    "seq": "scheduler_AUTH_FAIL",
+    "duration_ms": 28,
+    "status": "err"
+  },
+  {
+    "ts": 1700021143,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 448,
+    "status": "err"
+  },
+  {
+    "ts": 1700021331,
+    "module": "cache",
+    "event": "CACHE_HIT",
+    "seq": "cache_CACHE_HIT",
+    "duration_ms": 537,
+    "status": "ok"
+  },
+  {
+    "ts": 1700021447,
+    "module": "api",
+    "event": "AUTH_FAIL",
+    "seq": "api_AUTH_FAIL",
+    "duration_ms": 1792,
+    "status": "err"
+  },
+  {
+    "ts": 1700021519,
+    "module": "cache",
+    "event": "ERROR",
+    "seq": "cache_ERROR",
+    "duration_ms": 4981,
+    "status": "err"
+  },
+  {
+    "ts": 1700021581,
+    "module": "monitor",
+    "event": "TIMEOUT",
+    "seq": "monitor_TIMEOUT",
+    "duration_ms": 3868,
+    "status": "ok"
+  },
+  {
+    "ts": 1700021648,
+    "module": "gateway",
+    "event": "UPDATE",
+    "seq": "gateway_UPDATE",
+    "duration_ms": 3149,
+    "status": "ok"
+  },
+  {
+    "ts": 1700021727,
+    "module": "worker",
+    "event": "UPDATE",
+    "seq": "worker_UPDATE",
+    "duration_ms": 4908,
+    "status": "ok"
+  },
+  {
+    "ts": 1700021835,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 3002,
+    "status": "ok"
+  },
+  {
+    "ts": 1700022079,
+    "module": "db",
+    "event": "ERROR",
+    "seq": "db_ERROR",
+    "duration_ms": 640,
+    "status": "err"
+  },
+  {
+    "ts": 1700022098,
+    "module": "api",
+    "event": "DELETE",
+    "seq": "api_DELETE",
+    "duration_ms": 2096,
+    "status": "ok"
+  },
+  {
+    "ts": 1700022306,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 2653,
+    "status": "ok"
+  },
+  {
+    "ts": 1700022567,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 1613,
+    "status": "ok"
+  },
+  {
+    "ts": 1700022582,
+    "module": "gateway",
+    "event": "RETRY",
+    "seq": "gateway_RETRY",
+    "duration_ms": 2097,
+    "status": "ok"
+  },
+  {
+    "ts": 1700022629,
+    "module": "scheduler",
+    "event": "LOGIN",
+    "seq": "scheduler_LOGIN",
+    "duration_ms": 1005,
+    "status": "ok"
+  },
+  {
+    "ts": 1700022888,
+    "module": "cache",
+    "event": "DELETE",
+    "seq": "cache_DELETE",
+    "duration_ms": 375,
+    "status": "ok"
+  },
+  {
+    "ts": 1700023100,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 1320,
+    "status": "ok"
+  },
+  {
+    "ts": 1700023129,
+    "module": "worker",
+    "event": "UPDATE",
+    "seq": "worker_UPDATE",
+    "duration_ms": 4356,
+    "status": "ok"
+  },
+  {
+    "ts": 1700023370,
+    "module": "monitor",
+    "event": "TIMEOUT",
+    "seq": "monitor_TIMEOUT",
+    "duration_ms": 4858,
+    "status": "ok"
+  },
+  {
+    "ts": 1700023524,
+    "module": "monitor",
+    "event": "LOGOUT",
+    "seq": "monitor_LOGOUT",
+    "duration_ms": 3827,
+    "status": "ok"
+  },
+  {
+    "ts": 1700023676,
+    "module": "monitor",
+    "event": "DELETE",
+    "seq": "monitor_DELETE",
+    "duration_ms": 4287,
+    "status": "ok"
+  },
+  {
+    "ts": 1700023827,
+    "module": "cache",
+    "event": "LOGOUT",
+    "seq": "cache_LOGOUT",
+    "duration_ms": 2214,
+    "status": "ok"
+  },
+  {
+    "ts": 1700024079,
+    "module": "scheduler",
+    "event": "QUERY",
+    "seq": "scheduler_QUERY",
+    "duration_ms": 4206,
+    "status": "ok"
+  },
+  {
+    "ts": 1700024218,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 2034,
+    "status": "ok"
+  },
+  {
+    "ts": 1700024383,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 1324,
+    "status": "ok"
+  },
+  {
+    "ts": 1700024477,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 2274,
+    "status": "ok"
+  },
+  {
+    "ts": 1700024745,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 2005,
+    "status": "ok"
+  },
+  {
+    "ts": 1700025039,
+    "module": "scheduler",
+    "event": "RETRY",
+    "seq": "scheduler_RETRY",
+    "duration_ms": 1483,
+    "status": "ok"
+  },
+  {
+    "ts": 1700025121,
+    "module": "auth",
+    "event": "ERROR",
+    "seq": "auth_ERROR",
+    "duration_ms": 3144,
+    "status": "err"
+  },
+  {
+    "ts": 1700025258,
+    "module": "gateway",
+    "event": "LOGIN",
+    "seq": "gateway_LOGIN",
+    "duration_ms": 2639,
+    "status": "ok"
+  },
+  {
+    "ts": 1700025285,
+    "module": "scheduler",
+    "event": "TIMEOUT",
+    "seq": "scheduler_TIMEOUT",
+    "duration_ms": 733,
+    "status": "ok"
+  },
+  {
+    "ts": 1700025509,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 4206,
+    "status": "ok"
+  },
+  {
+    "ts": 1700025678,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 3500,
+    "status": "ok"
+  },
+  {
+    "ts": 1700025881,
+    "module": "worker",
+    "event": "DELETE",
+    "seq": "worker_DELETE",
+    "duration_ms": 3451,
+    "status": "ok"
+  },
+  {
+    "ts": 1700026000,
+    "module": "cache",
+    "event": "ERROR",
+    "seq": "cache_ERROR",
+    "duration_ms": 3954,
+    "status": "err"
+  },
+  {
+    "ts": 1700026090,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 831,
+    "status": "ok"
+  },
+  {
+    "ts": 1700026095,
+    "module": "auth",
+    "event": "LOGIN",
+    "seq": "auth_LOGIN",
+    "duration_ms": 3892,
+    "status": "ok"
+  },
+  {
+    "ts": 1700026367,
+    "module": "scheduler",
+    "event": "CACHE_HIT",
+    "seq": "scheduler_CACHE_HIT",
+    "duration_ms": 738,
+    "status": "ok"
+  },
+  {
+    "ts": 1700026502,
+    "module": "worker",
+    "event": "ERROR",
+    "seq": "worker_ERROR",
+    "duration_ms": 3806,
+    "status": "err"
+  },
+  {
+    "ts": 1700026675,
+    "module": "api",
+    "event": "DELETE",
+    "seq": "api_DELETE",
+    "duration_ms": 161,
+    "status": "ok"
+  },
+  {
+    "ts": 1700026712,
+    "module": "db",
+    "event": "TIMEOUT",
+    "seq": "db_TIMEOUT",
+    "duration_ms": 3155,
+    "status": "ok"
+  },
+  {
+    "ts": 1700026846,
+    "module": "monitor",
+    "event": "UPDATE",
+    "seq": "monitor_UPDATE",
+    "duration_ms": 1897,
+    "status": "ok"
+  },
+  {
+    "ts": 1700027143,
+    "module": "db",
+    "event": "QUERY",
+    "seq": "db_QUERY",
+    "duration_ms": 3043,
+    "status": "ok"
+  },
+  {
+    "ts": 1700027312,
+    "module": "gateway",
+    "event": "TIMEOUT",
+    "seq": "gateway_TIMEOUT",
+    "duration_ms": 697,
+    "status": "ok"
+  },
+  {
+    "ts": 1700027394,
+    "module": "api",
+    "event": "ERROR",
+    "seq": "api_ERROR",
+    "duration_ms": 2372,
+    "status": "err"
+  },
+  {
+    "ts": 1700027567,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 4005,
+    "status": "err"
+  },
+  {
+    "ts": 1700027867,
+    "module": "gateway",
+    "event": "UPDATE",
+    "seq": "gateway_UPDATE",
+    "duration_ms": 1406,
+    "status": "ok"
+  },
+  {
+    "ts": 1700028034,
+    "module": "monitor",
+    "event": "CACHE_HIT",
+    "seq": "monitor_CACHE_HIT",
+    "duration_ms": 979,
+    "status": "ok"
+  },
+  {
+    "ts": 1700028306,
+    "module": "api",
+    "event": "CACHE_HIT",
+    "seq": "api_CACHE_HIT",
+    "duration_ms": 1820,
+    "status": "ok"
+  },
+  {
+    "ts": 1700028582,
+    "module": "cache",
+    "event": "RETRY",
+    "seq": "cache_RETRY",
+    "duration_ms": 3437,
+    "status": "ok"
+  },
+  {
+    "ts": 1700028654,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 315,
+    "status": "ok"
+  },
+  {
+    "ts": 1700028932,
+    "module": "gateway",
+    "event": "LOGOUT",
+    "seq": "gateway_LOGOUT",
+    "duration_ms": 1920,
+    "status": "ok"
+  },
+  {
+    "ts": 1700028990,
+    "module": "monitor",
+    "event": "TIMEOUT",
+    "seq": "monitor_TIMEOUT",
+    "duration_ms": 1949,
+    "status": "ok"
+  },
+  {
+    "ts": 1700029283,
+    "module": "worker",
+    "event": "AUTH_FAIL",
+    "seq": "worker_AUTH_FAIL",
+    "duration_ms": 4863,
+    "status": "err"
+  },
+  {
+    "ts": 1700029386,
+    "module": "api",
+    "event": "LOGOUT",
+    "seq": "api_LOGOUT",
+    "duration_ms": 1166,
+    "status": "ok"
+  },
+  {
+    "ts": 1700029636,
+    "module": "cache",
+    "event": "CACHE_HIT",
+    "seq": "cache_CACHE_HIT",
+    "duration_ms": 3346,
+    "status": "ok"
+  },
+  {
+    "ts": 1700029795,
+    "module": "worker",
+    "event": "DELETE",
+    "seq": "worker_DELETE",
+    "duration_ms": 1906,
+    "status": "ok"
+  },
+  {
+    "ts": 1700030062,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 903,
+    "status": "ok"
+  },
+  {
+    "ts": 1700030075,
+    "module": "worker",
+    "event": "RETRY",
+    "seq": "worker_RETRY",
+    "duration_ms": 1035,
+    "status": "ok"
+  },
+  {
+    "ts": 1700030302,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 2364,
+    "status": "ok"
+  },
+  {
+    "ts": 1700030569,
+    "module": "worker",
+    "event": "QUERY",
+    "seq": "worker_QUERY",
+    "duration_ms": 3221,
+    "status": "ok"
+  },
+  {
+    "ts": 1700030844,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 1546,
+    "status": "ok"
+  },
+  {
+    "ts": 1700030849,
+    "module": "gateway",
+    "event": "AUTH_FAIL",
+    "seq": "gateway_AUTH_FAIL",
+    "duration_ms": 1944,
+    "status": "err"
+  },
+  {
+    "ts": 1700031053,
+    "module": "gateway",
+    "event": "AUTH_FAIL",
+    "seq": "gateway_AUTH_FAIL",
+    "duration_ms": 764,
+    "status": "err"
+  },
+  {
+    "ts": 1700031196,
+    "module": "api",
+    "event": "DELETE",
+    "seq": "api_DELETE",
+    "duration_ms": 946,
+    "status": "ok"
+  },
+  {
+    "ts": 1700031208,
+    "module": "scheduler",
+    "event": "TIMEOUT",
+    "seq": "scheduler_TIMEOUT",
+    "duration_ms": 4989,
+    "status": "ok"
+  },
+  {
+    "ts": 1700031482,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 495,
+    "status": "ok"
+  },
+  {
+    "ts": 1700031726,
+    "module": "auth",
+    "event": "TIMEOUT",
+    "seq": "auth_TIMEOUT",
+    "duration_ms": 909,
+    "status": "ok"
+  },
+  {
+    "ts": 1700032002,
+    "module": "scheduler",
+    "event": "LOGIN",
+    "seq": "scheduler_LOGIN",
+    "duration_ms": 2740,
+    "status": "ok"
+  },
+  {
+    "ts": 1700032277,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 1565,
+    "status": "err"
+  },
+  {
+    "ts": 1700032520,
+    "module": "auth",
+    "event": "LOGIN",
+    "seq": "auth_LOGIN",
+    "duration_ms": 1330,
+    "status": "ok"
+  },
+  {
+    "ts": 1700032554,
+    "module": "worker",
+    "event": "DELETE",
+    "seq": "worker_DELETE",
+    "duration_ms": 4654,
+    "status": "ok"
+  },
+  {
+    "ts": 1700032703,
+    "module": "scheduler",
+    "event": "AUTH_FAIL",
+    "seq": "scheduler_AUTH_FAIL",
+    "duration_ms": 374,
+    "status": "err"
+  },
+  {
+    "ts": 1700032867,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 659,
+    "status": "ok"
+  },
+  {
+    "ts": 1700033148,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 2105,
+    "status": "err"
+  },
+  {
+    "ts": 1700033269,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 4081,
+    "status": "ok"
+  },
+  {
+    "ts": 1700033340,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 1291,
+    "status": "err"
+  },
+  {
+    "ts": 1700033412,
+    "module": "auth",
+    "event": "TIMEOUT",
+    "seq": "auth_TIMEOUT",
+    "duration_ms": 127,
+    "status": "ok"
+  },
+  {
+    "ts": 1700033617,
+    "module": "api",
+    "event": "QUERY",
+    "seq": "api_QUERY",
+    "duration_ms": 1267,
+    "status": "ok"
+  },
+  {
+    "ts": 1700033830,
+    "module": "gateway",
+    "event": "LOGOUT",
+    "seq": "gateway_LOGOUT",
+    "duration_ms": 360,
+    "status": "ok"
+  },
+  {
+    "ts": 1700033844,
+    "module": "gateway",
+    "event": "AUTH_FAIL",
+    "seq": "gateway_AUTH_FAIL",
+    "duration_ms": 1449,
+    "status": "err"
+  },
+  {
+    "ts": 1700033930,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 3708,
+    "status": "ok"
+  },
+  {
+    "ts": 1700033948,
+    "module": "worker",
+    "event": "ERROR",
+    "seq": "worker_ERROR",
+    "duration_ms": 4137,
+    "status": "err"
+  },
+  {
+    "ts": 1700034095,
+    "module": "auth",
+    "event": "TIMEOUT",
+    "seq": "auth_TIMEOUT",
+    "duration_ms": 1804,
+    "status": "ok"
+  },
+  {
+    "ts": 1700034220,
+    "module": "cache",
+    "event": "ERROR",
+    "seq": "cache_ERROR",
+    "duration_ms": 2665,
+    "status": "err"
+  },
+  {
+    "ts": 1700034344,
+    "module": "scheduler",
+    "event": "QUERY",
+    "seq": "scheduler_QUERY",
+    "duration_ms": 2864,
+    "status": "ok"
+  },
+  {
+    "ts": 1700034444,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 3052,
+    "status": "ok"
+  },
+  {
+    "ts": 1700034643,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 2933,
+    "status": "ok"
+  },
+  {
+    "ts": 1700034869,
+    "module": "api",
+    "event": "DELETE",
+    "seq": "api_DELETE",
+    "duration_ms": 3837,
+    "status": "ok"
+  },
+  {
+    "ts": 1700034931,
+    "module": "monitor",
+    "event": "LOGIN",
+    "seq": "monitor_LOGIN",
+    "duration_ms": 4062,
+    "status": "ok"
+  },
+  {
+    "ts": 1700035088,
+    "module": "auth",
+    "event": "LOGOUT",
+    "seq": "auth_LOGOUT",
+    "duration_ms": 2490,
+    "status": "ok"
+  },
+  {
+    "ts": 1700035209,
+    "module": "worker",
+    "event": "AUTH_FAIL",
+    "seq": "worker_AUTH_FAIL",
+    "duration_ms": 1748,
+    "status": "err"
+  },
+  {
+    "ts": 1700035281,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 2135,
+    "status": "ok"
+  },
+  {
+    "ts": 1700035496,
+    "module": "db",
+    "event": "RETRY",
+    "seq": "db_RETRY",
+    "duration_ms": 1867,
+    "status": "ok"
+  },
+  {
+    "ts": 1700035579,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 4700,
+    "status": "ok"
+  },
+  {
+    "ts": 1700035706,
+    "module": "worker",
+    "event": "UPDATE",
+    "seq": "worker_UPDATE",
+    "duration_ms": 147,
+    "status": "ok"
+  },
+  {
+    "ts": 1700035893,
+    "module": "scheduler",
+    "event": "RETRY",
+    "seq": "scheduler_RETRY",
+    "duration_ms": 1968,
+    "status": "ok"
+  },
+  {
+    "ts": 1700036101,
+    "module": "auth",
+    "event": "AUTH_FAIL",
+    "seq": "auth_AUTH_FAIL",
+    "duration_ms": 1337,
+    "status": "err"
+  },
+  {
+    "ts": 1700036277,
+    "module": "scheduler",
+    "event": "LOGOUT",
+    "seq": "scheduler_LOGOUT",
+    "duration_ms": 1865,
+    "status": "ok"
+  },
+  {
+    "ts": 1700036295,
+    "module": "gateway",
+    "event": "UPDATE",
+    "seq": "gateway_UPDATE",
+    "duration_ms": 1617,
+    "status": "ok"
+  },
+  {
+    "ts": 1700036565,
+    "module": "monitor",
+    "event": "TIMEOUT",
+    "seq": "monitor_TIMEOUT",
+    "duration_ms": 3358,
+    "status": "ok"
+  },
+  {
+    "ts": 1700036745,
+    "module": "gateway",
+    "event": "TIMEOUT",
+    "seq": "gateway_TIMEOUT",
+    "duration_ms": 62,
+    "status": "ok"
+  },
+  {
+    "ts": 1700036916,
+    "module": "scheduler",
+    "event": "RETRY",
+    "seq": "scheduler_RETRY",
+    "duration_ms": 2682,
+    "status": "ok"
+  },
+  {
+    "ts": 1700037086,
+    "module": "gateway",
+    "event": "UPDATE",
+    "seq": "gateway_UPDATE",
+    "duration_ms": 1555,
+    "status": "ok"
+  },
+  {
+    "ts": 1700037201,
+    "module": "gateway",
+    "event": "DELETE",
+    "seq": "gateway_DELETE",
+    "duration_ms": 169,
+    "status": "ok"
+  },
+  {
+    "ts": 1700037215,
+    "module": "gateway",
+    "event": "LOGOUT",
+    "seq": "gateway_LOGOUT",
+    "duration_ms": 4331,
+    "status": "ok"
+  },
+  {
+    "ts": 1700037506,
+    "module": "cache",
+    "event": "CACHE_HIT",
+    "seq": "cache_CACHE_HIT",
+    "duration_ms": 4983,
+    "status": "ok"
+  },
+  {
+    "ts": 1700037646,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 2820,
+    "status": "ok"
+  },
+  {
+    "ts": 1700037714,
+    "module": "gateway",
+    "event": "LOGIN",
+    "seq": "gateway_LOGIN",
+    "duration_ms": 1981,
+    "status": "ok"
+  },
+  {
+    "ts": 1700037793,
+    "module": "monitor",
+    "event": "LOGOUT",
+    "seq": "monitor_LOGOUT",
+    "duration_ms": 4918,
+    "status": "ok"
+  },
+  {
+    "ts": 1700038054,
+    "module": "cache",
+    "event": "RETRY",
+    "seq": "cache_RETRY",
+    "duration_ms": 1333,
+    "status": "ok"
+  },
+  {
+    "ts": 1700038267,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 1112,
+    "status": "ok"
+  },
+  {
+    "ts": 1700038465,
+    "module": "monitor",
+    "event": "ERROR",
+    "seq": "monitor_ERROR",
+    "duration_ms": 839,
+    "status": "err"
+  },
+  {
+    "ts": 1700038740,
+    "module": "auth",
+    "event": "LOGIN",
+    "seq": "auth_LOGIN",
+    "duration_ms": 97,
+    "status": "ok"
+  },
+  {
+    "ts": 1700039022,
+    "module": "db",
+    "event": "ERROR",
+    "seq": "db_ERROR",
+    "duration_ms": 3319,
+    "status": "err"
+  },
+  {
+    "ts": 1700039141,
+    "module": "worker",
+    "event": "UPDATE",
+    "seq": "worker_UPDATE",
+    "duration_ms": 4090,
+    "status": "ok"
+  },
+  {
+    "ts": 1700039389,
+    "module": "auth",
+    "event": "TIMEOUT",
+    "seq": "auth_TIMEOUT",
+    "duration_ms": 509,
+    "status": "ok"
+  },
+  {
+    "ts": 1700039395,
+    "module": "db",
+    "event": "TIMEOUT",
+    "seq": "db_TIMEOUT",
+    "duration_ms": 18,
+    "status": "ok"
+  },
+  {
+    "ts": 1700039629,
+    "module": "gateway",
+    "event": "TIMEOUT",
+    "seq": "gateway_TIMEOUT",
+    "duration_ms": 4021,
+    "status": "ok"
+  },
+  {
+    "ts": 1700039742,
+    "module": "scheduler",
+    "event": "RETRY",
+    "seq": "scheduler_RETRY",
+    "duration_ms": 4772,
+    "status": "ok"
+  },
+  {
+    "ts": 1700040012,
+    "module": "scheduler",
+    "event": "QUERY",
+    "seq": "scheduler_QUERY",
+    "duration_ms": 3814,
+    "status": "ok"
+  },
+  {
+    "ts": 1700040126,
+    "module": "api",
+    "event": "RETRY",
+    "seq": "api_RETRY",
+    "duration_ms": 2377,
+    "status": "ok"
+  },
+  {
+    "ts": 1700040233,
+    "module": "gateway",
+    "event": "UPDATE",
+    "seq": "gateway_UPDATE",
+    "duration_ms": 105,
+    "status": "ok"
+  },
+  {
+    "ts": 1700040381,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 2940,
+    "status": "ok"
+  },
+  {
+    "ts": 1700040437,
+    "module": "auth",
+    "event": "LOGIN",
+    "seq": "auth_LOGIN",
+    "duration_ms": 2826,
+    "status": "ok"
+  },
+  {
+    "ts": 1700040516,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 248,
+    "status": "ok"
+  },
+  {
+    "ts": 1700040596,
+    "module": "api",
+    "event": "RETRY",
+    "seq": "api_RETRY",
+    "duration_ms": 1558,
+    "status": "ok"
+  },
+  {
+    "ts": 1700040879,
+    "module": "gateway",
+    "event": "ERROR",
+    "seq": "gateway_ERROR",
+    "duration_ms": 3245,
+    "status": "err"
+  },
+  {
+    "ts": 1700041062,
+    "module": "db",
+    "event": "LOGOUT",
+    "seq": "db_LOGOUT",
+    "duration_ms": 3923,
+    "status": "ok"
+  },
+  {
+    "ts": 1700041312,
+    "module": "monitor",
+    "event": "RETRY",
+    "seq": "monitor_RETRY",
+    "duration_ms": 4172,
+    "status": "ok"
+  },
+  {
+    "ts": 1700041448,
+    "module": "cache",
+    "event": "ERROR",
+    "seq": "cache_ERROR",
+    "duration_ms": 347,
+    "status": "err"
+  },
+  {
+    "ts": 1700041648,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 2583,
+    "status": "ok"
+  },
+  {
+    "ts": 1700041755,
+    "module": "cache",
+    "event": "RETRY",
+    "seq": "cache_RETRY",
+    "duration_ms": 2622,
+    "status": "ok"
+  },
+  {
+    "ts": 1700041800,
+    "module": "db",
+    "event": "QUERY",
+    "seq": "db_QUERY",
+    "duration_ms": 1080,
+    "status": "ok"
+  },
+  {
+    "ts": 1700041995,
+    "module": "api",
+    "event": "QUERY",
+    "seq": "api_QUERY",
+    "duration_ms": 452,
+    "status": "ok"
+  },
+  {
+    "ts": 1700042136,
+    "module": "worker",
+    "event": "QUERY",
+    "seq": "worker_QUERY",
+    "duration_ms": 4916,
+    "status": "ok"
+  },
+  {
+    "ts": 1700042186,
+    "module": "api",
+    "event": "LOGOUT",
+    "seq": "api_LOGOUT",
+    "duration_ms": 1267,
+    "status": "ok"
+  },
+  {
+    "ts": 1700042420,
+    "module": "scheduler",
+    "event": "LOGOUT",
+    "seq": "scheduler_LOGOUT",
+    "duration_ms": 4846,
+    "status": "ok"
+  },
+  {
+    "ts": 1700042718,
+    "module": "monitor",
+    "event": "ERROR",
+    "seq": "monitor_ERROR",
+    "duration_ms": 2957,
+    "status": "err"
+  },
+  {
+    "ts": 1700042953,
+    "module": "worker",
+    "event": "QUERY",
+    "seq": "worker_QUERY",
+    "duration_ms": 629,
+    "status": "ok"
+  },
+  {
+    "ts": 1700043236,
+    "module": "auth",
+    "event": "ERROR",
+    "seq": "auth_ERROR",
+    "duration_ms": 3899,
+    "status": "err"
+  },
+  {
+    "ts": 1700043376,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 2055,
+    "status": "ok"
+  },
+  {
+    "ts": 1700043508,
+    "module": "scheduler",
+    "event": "RETRY",
+    "seq": "scheduler_RETRY",
+    "duration_ms": 2053,
+    "status": "ok"
+  },
+  {
+    "ts": 1700043763,
+    "module": "gateway",
+    "event": "RETRY",
+    "seq": "gateway_RETRY",
+    "duration_ms": 4092,
+    "status": "ok"
+  },
+  {
+    "ts": 1700043877,
+    "module": "auth",
+    "event": "AUTH_FAIL",
+    "seq": "auth_AUTH_FAIL",
+    "duration_ms": 3949,
+    "status": "err"
+  },
+  {
+    "ts": 1700044054,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 2218,
+    "status": "ok"
+  },
+  {
+    "ts": 1700044326,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 613,
+    "status": "ok"
+  },
+  {
+    "ts": 1700044445,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 3450,
+    "status": "ok"
+  },
+  {
+    "ts": 1700044678,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 2965,
+    "status": "err"
+  },
+  {
+    "ts": 1700044890,
+    "module": "api",
+    "event": "DELETE",
+    "seq": "api_DELETE",
+    "duration_ms": 3877,
+    "status": "ok"
+  },
+  {
+    "ts": 1700044989,
+    "module": "worker",
+    "event": "LOGOUT",
+    "seq": "worker_LOGOUT",
+    "duration_ms": 2212,
+    "status": "ok"
+  },
+  {
+    "ts": 1700045014,
+    "module": "worker",
+    "event": "CACHE_HIT",
+    "seq": "worker_CACHE_HIT",
+    "duration_ms": 530,
+    "status": "ok"
+  },
+  {
+    "ts": 1700045211,
+    "module": "api",
+    "event": "DELETE",
+    "seq": "api_DELETE",
+    "duration_ms": 3572,
+    "status": "ok"
+  },
+  {
+    "ts": 1700045235,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 1115,
+    "status": "ok"
+  },
+  {
+    "ts": 1700045350,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 4487,
+    "status": "ok"
+  },
+  {
+    "ts": 1700045631,
+    "module": "monitor",
+    "event": "UPDATE",
+    "seq": "monitor_UPDATE",
+    "duration_ms": 540,
+    "status": "ok"
+  },
+  {
+    "ts": 1700045858,
+    "module": "worker",
+    "event": "AUTH_FAIL",
+    "seq": "worker_AUTH_FAIL",
+    "duration_ms": 730,
+    "status": "err"
+  },
+  {
+    "ts": 1700046047,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 2279,
+    "status": "ok"
+  },
+  {
+    "ts": 1700046247,
+    "module": "scheduler",
+    "event": "CACHE_HIT",
+    "seq": "scheduler_CACHE_HIT",
+    "duration_ms": 2105,
+    "status": "ok"
+  },
+  {
+    "ts": 1700046280,
+    "module": "db",
+    "event": "LOGOUT",
+    "seq": "db_LOGOUT",
+    "duration_ms": 1697,
+    "status": "ok"
+  },
+  {
+    "ts": 1700046526,
+    "module": "worker",
+    "event": "LOGOUT",
+    "seq": "worker_LOGOUT",
+    "duration_ms": 4076,
+    "status": "ok"
+  },
+  {
+    "ts": 1700046788,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 3061,
+    "status": "ok"
+  },
+  {
+    "ts": 1700046959,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 4873,
+    "status": "ok"
+  },
+  {
+    "ts": 1700047184,
+    "module": "gateway",
+    "event": "DELETE",
+    "seq": "gateway_DELETE",
+    "duration_ms": 4253,
+    "status": "ok"
+  },
+  {
+    "ts": 1700047428,
+    "module": "monitor",
+    "event": "DELETE",
+    "seq": "monitor_DELETE",
+    "duration_ms": 800,
+    "status": "ok"
+  },
+  {
+    "ts": 1700047591,
+    "module": "auth",
+    "event": "DELETE",
+    "seq": "auth_DELETE",
+    "duration_ms": 1833,
+    "status": "ok"
+  },
+  {
+    "ts": 1700047724,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 4986,
+    "status": "ok"
+  },
+  {
+    "ts": 1700047812,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 1984,
+    "status": "ok"
+  },
+  {
+    "ts": 1700048054,
+    "module": "cache",
+    "event": "AUTH_FAIL",
+    "seq": "cache_AUTH_FAIL",
+    "duration_ms": 790,
+    "status": "err"
+  },
+  {
+    "ts": 1700048286,
+    "module": "db",
+    "event": "QUERY",
+    "seq": "db_QUERY",
+    "duration_ms": 4216,
+    "status": "ok"
+  },
+  {
+    "ts": 1700048515,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 919,
+    "status": "ok"
+  },
+  {
+    "ts": 1700048767,
+    "module": "gateway",
+    "event": "LOGOUT",
+    "seq": "gateway_LOGOUT",
+    "duration_ms": 1592,
+    "status": "ok"
+  },
+  {
+    "ts": 1700048776,
+    "module": "cache",
+    "event": "DELETE",
+    "seq": "cache_DELETE",
+    "duration_ms": 3326,
+    "status": "ok"
+  },
+  {
+    "ts": 1700048925,
+    "module": "api",
+    "event": "AUTH_FAIL",
+    "seq": "api_AUTH_FAIL",
+    "duration_ms": 4815,
+    "status": "err"
+  },
+  {
+    "ts": 1700048935,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 4284,
+    "status": "ok"
+  },
+  {
+    "ts": 1700049102,
+    "module": "cache",
+    "event": "LOGOUT",
+    "seq": "cache_LOGOUT",
+    "duration_ms": 635,
+    "status": "ok"
+  },
+  {
+    "ts": 1700049336,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 2757,
+    "status": "ok"
+  },
+  {
+    "ts": 1700049498,
+    "module": "api",
+    "event": "QUERY",
+    "seq": "api_QUERY",
+    "duration_ms": 1485,
+    "status": "ok"
+  },
+  {
+    "ts": 1700049785,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 2073,
+    "status": "ok"
+  },
+  {
+    "ts": 1700050016,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 601,
+    "status": "ok"
+  },
+  {
+    "ts": 1700050292,
+    "module": "scheduler",
+    "event": "AUTH_FAIL",
+    "seq": "scheduler_AUTH_FAIL",
+    "duration_ms": 2581,
+    "status": "err"
+  },
+  {
+    "ts": 1700050543,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 4499,
+    "status": "err"
+  },
+  {
+    "ts": 1700050639,
+    "module": "auth",
+    "event": "TIMEOUT",
+    "seq": "auth_TIMEOUT",
+    "duration_ms": 2783,
+    "status": "ok"
+  },
+  {
+    "ts": 1700050767,
+    "module": "auth",
+    "event": "AUTH_FAIL",
+    "seq": "auth_AUTH_FAIL",
+    "duration_ms": 523,
+    "status": "err"
+  },
+  {
+    "ts": 1700051016,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 1704,
+    "status": "ok"
+  },
+  {
+    "ts": 1700051125,
+    "module": "api",
+    "event": "QUERY",
+    "seq": "api_QUERY",
+    "duration_ms": 2774,
+    "status": "ok"
+  },
+  {
+    "ts": 1700051282,
+    "module": "worker",
+    "event": "RETRY",
+    "seq": "worker_RETRY",
+    "duration_ms": 1865,
+    "status": "ok"
+  },
+  {
+    "ts": 1700051432,
+    "module": "db",
+    "event": "TIMEOUT",
+    "seq": "db_TIMEOUT",
+    "duration_ms": 1775,
+    "status": "ok"
+  },
+  {
+    "ts": 1700051461,
+    "module": "auth",
+    "event": "AUTH_FAIL",
+    "seq": "auth_AUTH_FAIL",
+    "duration_ms": 4863,
+    "status": "err"
+  },
+  {
+    "ts": 1700051496,
+    "module": "cache",
+    "event": "RETRY",
+    "seq": "cache_RETRY",
+    "duration_ms": 4385,
+    "status": "ok"
+  },
+  {
+    "ts": 1700051706,
+    "module": "gateway",
+    "event": "AUTH_FAIL",
+    "seq": "gateway_AUTH_FAIL",
+    "duration_ms": 4785,
+    "status": "err"
+  },
+  {
+    "ts": 1700051909,
+    "module": "monitor",
+    "event": "TIMEOUT",
+    "seq": "monitor_TIMEOUT",
+    "duration_ms": 3607,
+    "status": "ok"
+  },
+  {
+    "ts": 1700052129,
+    "module": "worker",
+    "event": "ERROR",
+    "seq": "worker_ERROR",
+    "duration_ms": 4987,
+    "status": "err"
+  },
+  {
+    "ts": 1700052334,
+    "module": "api",
+    "event": "AUTH_FAIL",
+    "seq": "api_AUTH_FAIL",
+    "duration_ms": 3449,
+    "status": "err"
+  },
+  {
+    "ts": 1700052502,
+    "module": "gateway",
+    "event": "LOGOUT",
+    "seq": "gateway_LOGOUT",
+    "duration_ms": 3196,
+    "status": "ok"
+  },
+  {
+    "ts": 1700052607,
+    "module": "cache",
+    "event": "LOGOUT",
+    "seq": "cache_LOGOUT",
+    "duration_ms": 4756,
+    "status": "ok"
+  },
+  {
+    "ts": 1700052654,
+    "module": "gateway",
+    "event": "LOGIN",
+    "seq": "gateway_LOGIN",
+    "duration_ms": 3244,
+    "status": "ok"
+  },
+  {
+    "ts": 1700052947,
+    "module": "cache",
+    "event": "LOGIN",
+    "seq": "cache_LOGIN",
+    "duration_ms": 1139,
+    "status": "ok"
+  },
+  {
+    "ts": 1700052994,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 3098,
+    "status": "ok"
+  },
+  {
+    "ts": 1700053236,
+    "module": "worker",
+    "event": "RETRY",
+    "seq": "worker_RETRY",
+    "duration_ms": 2638,
+    "status": "ok"
+  },
+  {
+    "ts": 1700053383,
+    "module": "gateway",
+    "event": "QUERY",
+    "seq": "gateway_QUERY",
+    "duration_ms": 4532,
+    "status": "ok"
+  },
+  {
+    "ts": 1700053567,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 4567,
+    "status": "ok"
+  },
+  {
+    "ts": 1700053639,
+    "module": "monitor",
+    "event": "LOGIN",
+    "seq": "monitor_LOGIN",
+    "duration_ms": 2617,
+    "status": "ok"
+  },
+  {
+    "ts": 1700053742,
+    "module": "scheduler",
+    "event": "CACHE_HIT",
+    "seq": "scheduler_CACHE_HIT",
+    "duration_ms": 3779,
+    "status": "ok"
+  },
+  {
+    "ts": 1700053867,
+    "module": "db",
+    "event": "ERROR",
+    "seq": "db_ERROR",
+    "duration_ms": 1809,
+    "status": "err"
+  },
+  {
+    "ts": 1700054088,
+    "module": "gateway",
+    "event": "RETRY",
+    "seq": "gateway_RETRY",
+    "duration_ms": 3223,
+    "status": "ok"
+  },
+  {
+    "ts": 1700054275,
+    "module": "monitor",
+    "event": "DELETE",
+    "seq": "monitor_DELETE",
+    "duration_ms": 57,
+    "status": "ok"
+  },
+  {
+    "ts": 1700054298,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 3150,
+    "status": "ok"
+  },
+  {
+    "ts": 1700054568,
+    "module": "db",
+    "event": "LOGOUT",
+    "seq": "db_LOGOUT",
+    "duration_ms": 2216,
+    "status": "ok"
+  },
+  {
+    "ts": 1700054655,
+    "module": "gateway",
+    "event": "TIMEOUT",
+    "seq": "gateway_TIMEOUT",
+    "duration_ms": 135,
+    "status": "ok"
+  },
+  {
+    "ts": 1700054848,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 1959,
+    "status": "ok"
+  },
+  {
+    "ts": 1700054998,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 2587,
+    "status": "ok"
+  },
+  {
+    "ts": 1700055247,
+    "module": "worker",
+    "event": "QUERY",
+    "seq": "worker_QUERY",
+    "duration_ms": 2622,
+    "status": "ok"
+  },
+  {
+    "ts": 1700055453,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 4592,
+    "status": "ok"
+  },
+  {
+    "ts": 1700055649,
+    "module": "gateway",
+    "event": "ERROR",
+    "seq": "gateway_ERROR",
+    "duration_ms": 406,
+    "status": "err"
+  },
+  {
+    "ts": 1700055896,
+    "module": "api",
+    "event": "ERROR",
+    "seq": "api_ERROR",
+    "duration_ms": 823,
+    "status": "err"
+  },
+  {
+    "ts": 1700055980,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 3711,
+    "status": "ok"
+  },
+  {
+    "ts": 1700056277,
+    "module": "monitor",
+    "event": "LOGOUT",
+    "seq": "monitor_LOGOUT",
+    "duration_ms": 1677,
+    "status": "ok"
+  },
+  {
+    "ts": 1700056501,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 3366,
+    "status": "ok"
+  },
+  {
+    "ts": 1700056549,
+    "module": "db",
+    "event": "LOGOUT",
+    "seq": "db_LOGOUT",
+    "duration_ms": 3716,
+    "status": "ok"
+  },
+  {
+    "ts": 1700056793,
+    "module": "gateway",
+    "event": "LOGOUT",
+    "seq": "gateway_LOGOUT",
+    "duration_ms": 2977,
+    "status": "ok"
+  },
+  {
+    "ts": 1700056904,
+    "module": "monitor",
+    "event": "UPDATE",
+    "seq": "monitor_UPDATE",
+    "duration_ms": 3321,
+    "status": "ok"
+  },
+  {
+    "ts": 1700057128,
+    "module": "scheduler",
+    "event": "AUTH_FAIL",
+    "seq": "scheduler_AUTH_FAIL",
+    "duration_ms": 1472,
+    "status": "err"
+  },
+  {
+    "ts": 1700057295,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 2421,
+    "status": "ok"
+  },
+  {
+    "ts": 1700057321,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 2569,
+    "status": "ok"
+  },
+  {
+    "ts": 1700057481,
+    "module": "scheduler",
+    "event": "ERROR",
+    "seq": "scheduler_ERROR",
+    "duration_ms": 2029,
+    "status": "err"
+  },
+  {
+    "ts": 1700057563,
+    "module": "gateway",
+    "event": "AUTH_FAIL",
+    "seq": "gateway_AUTH_FAIL",
+    "duration_ms": 977,
+    "status": "err"
+  },
+  {
+    "ts": 1700057800,
+    "module": "db",
+    "event": "TIMEOUT",
+    "seq": "db_TIMEOUT",
+    "duration_ms": 2869,
+    "status": "ok"
+  },
+  {
+    "ts": 1700057808,
+    "module": "api",
+    "event": "DELETE",
+    "seq": "api_DELETE",
+    "duration_ms": 3944,
+    "status": "ok"
+  },
+  {
+    "ts": 1700057934,
+    "module": "auth",
+    "event": "RETRY",
+    "seq": "auth_RETRY",
+    "duration_ms": 85,
+    "status": "ok"
+  },
+  {
+    "ts": 1700058219,
+    "module": "worker",
+    "event": "ERROR",
+    "seq": "worker_ERROR",
+    "duration_ms": 2637,
+    "status": "err"
+  },
+  {
+    "ts": 1700058432,
+    "module": "worker",
+    "event": "AUTH_FAIL",
+    "seq": "worker_AUTH_FAIL",
+    "duration_ms": 734,
+    "status": "err"
+  },
+  {
+    "ts": 1700058662,
+    "module": "api",
+    "event": "TIMEOUT",
+    "seq": "api_TIMEOUT",
+    "duration_ms": 280,
+    "status": "ok"
+  },
+  {
+    "ts": 1700058838,
+    "module": "worker",
+    "event": "CACHE_HIT",
+    "seq": "worker_CACHE_HIT",
+    "duration_ms": 3716,
+    "status": "ok"
+  },
+  {
+    "ts": 1700059057,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 1363,
+    "status": "ok"
+  },
+  {
+    "ts": 1700059136,
+    "module": "gateway",
+    "event": "QUERY",
+    "seq": "gateway_QUERY",
+    "duration_ms": 1701,
+    "status": "ok"
+  },
+  {
+    "ts": 1700059429,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 4340,
+    "status": "ok"
+  },
+  {
+    "ts": 1700059720,
+    "module": "db",
+    "event": "QUERY",
+    "seq": "db_QUERY",
+    "duration_ms": 3118,
+    "status": "ok"
+  },
+  {
+    "ts": 1700059787,
+    "module": "monitor",
+    "event": "CACHE_HIT",
+    "seq": "monitor_CACHE_HIT",
+    "duration_ms": 57,
+    "status": "ok"
+  },
+  {
+    "ts": 1700060019,
+    "module": "api",
+    "event": "CACHE_HIT",
+    "seq": "api_CACHE_HIT",
+    "duration_ms": 4274,
+    "status": "ok"
+  },
+  {
+    "ts": 1700060180,
+    "module": "scheduler",
+    "event": "CACHE_HIT",
+    "seq": "scheduler_CACHE_HIT",
+    "duration_ms": 4566,
+    "status": "ok"
+  },
+  {
+    "ts": 1700060308,
+    "module": "worker",
+    "event": "RETRY",
+    "seq": "worker_RETRY",
+    "duration_ms": 1071,
+    "status": "ok"
+  },
+  {
+    "ts": 1700060357,
+    "module": "auth",
+    "event": "LOGOUT",
+    "seq": "auth_LOGOUT",
+    "duration_ms": 185,
+    "status": "ok"
+  },
+  {
+    "ts": 1700060540,
+    "module": "scheduler",
+    "event": "AUTH_FAIL",
+    "seq": "scheduler_AUTH_FAIL",
+    "duration_ms": 2617,
+    "status": "err"
+  },
+  {
+    "ts": 1700060732,
+    "module": "worker",
+    "event": "CACHE_HIT",
+    "seq": "worker_CACHE_HIT",
+    "duration_ms": 2360,
+    "status": "ok"
+  },
+  {
+    "ts": 1700060998,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 44,
+    "status": "ok"
+  },
+  {
+    "ts": 1700061105,
+    "module": "worker",
+    "event": "QUERY",
+    "seq": "worker_QUERY",
+    "duration_ms": 1521,
+    "status": "ok"
+  },
+  {
+    "ts": 1700061370,
+    "module": "monitor",
+    "event": "QUERY",
+    "seq": "monitor_QUERY",
+    "duration_ms": 2113,
+    "status": "ok"
+  },
+  {
+    "ts": 1700061406,
+    "module": "scheduler",
+    "event": "TIMEOUT",
+    "seq": "scheduler_TIMEOUT",
+    "duration_ms": 3951,
+    "status": "ok"
+  },
+  {
+    "ts": 1700061652,
+    "module": "scheduler",
+    "event": "TIMEOUT",
+    "seq": "scheduler_TIMEOUT",
+    "duration_ms": 4588,
+    "status": "ok"
+  },
+  {
+    "ts": 1700061749,
+    "module": "monitor",
+    "event": "RETRY",
+    "seq": "monitor_RETRY",
+    "duration_ms": 4818,
+    "status": "ok"
+  },
+  {
+    "ts": 1700061755,
+    "module": "auth",
+    "event": "RETRY",
+    "seq": "auth_RETRY",
+    "duration_ms": 2549,
+    "status": "ok"
+  },
+  {
+    "ts": 1700062022,
+    "module": "db",
+    "event": "LOGOUT",
+    "seq": "db_LOGOUT",
+    "duration_ms": 4511,
+    "status": "ok"
+  },
+  {
+    "ts": 1700062057,
+    "module": "worker",
+    "event": "CACHE_HIT",
+    "seq": "worker_CACHE_HIT",
+    "duration_ms": 4652,
+    "status": "ok"
+  },
+  {
+    "ts": 1700062137,
+    "module": "db",
+    "event": "LOGOUT",
+    "seq": "db_LOGOUT",
+    "duration_ms": 4354,
+    "status": "ok"
+  },
+  {
+    "ts": 1700062205,
+    "module": "monitor",
+    "event": "ERROR",
+    "seq": "monitor_ERROR",
+    "duration_ms": 3859,
+    "status": "err"
+  },
+  {
+    "ts": 1700062310,
+    "module": "scheduler",
+    "event": "AUTH_FAIL",
+    "seq": "scheduler_AUTH_FAIL",
+    "duration_ms": 4048,
+    "status": "err"
+  },
+  {
+    "ts": 1700062329,
+    "module": "worker",
+    "event": "UPDATE",
+    "seq": "worker_UPDATE",
+    "duration_ms": 4339,
+    "status": "ok"
+  },
+  {
+    "ts": 1700062503,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 4122,
+    "status": "ok"
+  },
+  {
+    "ts": 1700062541,
+    "module": "monitor",
+    "event": "QUERY",
+    "seq": "monitor_QUERY",
+    "duration_ms": 3673,
+    "status": "ok"
+  },
+  {
+    "ts": 1700062665,
+    "module": "scheduler",
+    "event": "TIMEOUT",
+    "seq": "scheduler_TIMEOUT",
+    "duration_ms": 2697,
+    "status": "ok"
+  },
+  {
+    "ts": 1700062772,
+    "module": "db",
+    "event": "RETRY",
+    "seq": "db_RETRY",
+    "duration_ms": 3234,
+    "status": "ok"
+  },
+  {
+    "ts": 1700062859,
+    "module": "worker",
+    "event": "ERROR",
+    "seq": "worker_ERROR",
+    "duration_ms": 4721,
+    "status": "err"
+  },
+  {
+    "ts": 1700063141,
+    "module": "auth",
+    "event": "AUTH_FAIL",
+    "seq": "auth_AUTH_FAIL",
+    "duration_ms": 2511,
+    "status": "err"
+  },
+  {
+    "ts": 1700063222,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 1567,
+    "status": "ok"
+  },
+  {
+    "ts": 1700063510,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 481,
+    "status": "ok"
+  },
+  {
+    "ts": 1700063568,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 4197,
+    "status": "ok"
+  },
+  {
+    "ts": 1700063580,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 4893,
+    "status": "ok"
+  },
+  {
+    "ts": 1700063769,
+    "module": "gateway",
+    "event": "DELETE",
+    "seq": "gateway_DELETE",
+    "duration_ms": 832,
+    "status": "ok"
+  },
+  {
+    "ts": 1700064063,
+    "module": "monitor",
+    "event": "DELETE",
+    "seq": "monitor_DELETE",
+    "duration_ms": 1741,
+    "status": "ok"
+  },
+  {
+    "ts": 1700064202,
+    "module": "api",
+    "event": "ERROR",
+    "seq": "api_ERROR",
+    "duration_ms": 3554,
+    "status": "err"
+  },
+  {
+    "ts": 1700064358,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 2389,
+    "status": "ok"
+  },
+  {
+    "ts": 1700064597,
+    "module": "monitor",
+    "event": "CACHE_HIT",
+    "seq": "monitor_CACHE_HIT",
+    "duration_ms": 3439,
+    "status": "ok"
+  },
+  {
+    "ts": 1700064856,
+    "module": "scheduler",
+    "event": "QUERY",
+    "seq": "scheduler_QUERY",
+    "duration_ms": 525,
+    "status": "ok"
+  },
+  {
+    "ts": 1700064887,
+    "module": "api",
+    "event": "RETRY",
+    "seq": "api_RETRY",
+    "duration_ms": 2428,
+    "status": "ok"
+  },
+  {
+    "ts": 1700065032,
+    "module": "scheduler",
+    "event": "ERROR",
+    "seq": "scheduler_ERROR",
+    "duration_ms": 3978,
+    "status": "err"
+  },
+  {
+    "ts": 1700065289,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 1905,
+    "status": "ok"
+  },
+  {
+    "ts": 1700065293,
+    "module": "gateway",
+    "event": "RETRY",
+    "seq": "gateway_RETRY",
+    "duration_ms": 4813,
+    "status": "ok"
+  },
+  {
+    "ts": 1700065446,
+    "module": "cache",
+    "event": "RETRY",
+    "seq": "cache_RETRY",
+    "duration_ms": 1652,
+    "status": "ok"
+  },
+  {
+    "ts": 1700065535,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 4978,
+    "status": "ok"
+  },
+  {
+    "ts": 1700065557,
+    "module": "api",
+    "event": "ERROR",
+    "seq": "api_ERROR",
+    "duration_ms": 2900,
+    "status": "err"
+  },
+  {
+    "ts": 1700065801,
+    "module": "gateway",
+    "event": "QUERY",
+    "seq": "gateway_QUERY",
+    "duration_ms": 526,
+    "status": "ok"
+  },
+  {
+    "ts": 1700065938,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 4736,
+    "status": "ok"
+  },
+  {
+    "ts": 1700065959,
+    "module": "auth",
+    "event": "DELETE",
+    "seq": "auth_DELETE",
+    "duration_ms": 3905,
+    "status": "ok"
+  },
+  {
+    "ts": 1700065972,
+    "module": "worker",
+    "event": "RETRY",
+    "seq": "worker_RETRY",
+    "duration_ms": 542,
+    "status": "ok"
+  },
+  {
+    "ts": 1700066181,
+    "module": "monitor",
+    "event": "ERROR",
+    "seq": "monitor_ERROR",
+    "duration_ms": 840,
+    "status": "err"
+  },
+  {
+    "ts": 1700066337,
+    "module": "auth",
+    "event": "TIMEOUT",
+    "seq": "auth_TIMEOUT",
+    "duration_ms": 432,
+    "status": "ok"
+  },
+  {
+    "ts": 1700066613,
+    "module": "auth",
+    "event": "RETRY",
+    "seq": "auth_RETRY",
+    "duration_ms": 1699,
+    "status": "ok"
+  },
+  {
+    "ts": 1700066653,
+    "module": "scheduler",
+    "event": "LOGIN",
+    "seq": "scheduler_LOGIN",
+    "duration_ms": 664,
+    "status": "ok"
+  },
+  {
+    "ts": 1700066888,
+    "module": "db",
+    "event": "AUTH_FAIL",
+    "seq": "db_AUTH_FAIL",
+    "duration_ms": 2694,
+    "status": "err"
+  },
+  {
+    "ts": 1700067126,
+    "module": "worker",
+    "event": "CACHE_HIT",
+    "seq": "worker_CACHE_HIT",
+    "duration_ms": 3038,
+    "status": "ok"
+  },
+  {
+    "ts": 1700067255,
+    "module": "scheduler",
+    "event": "QUERY",
+    "seq": "scheduler_QUERY",
+    "duration_ms": 3067,
+    "status": "ok"
+  },
+  {
+    "ts": 1700067347,
+    "module": "monitor",
+    "event": "ERROR",
+    "seq": "monitor_ERROR",
+    "duration_ms": 1147,
+    "status": "err"
+  },
+  {
+    "ts": 1700067621,
+    "module": "gateway",
+    "event": "QUERY",
+    "seq": "gateway_QUERY",
+    "duration_ms": 3921,
+    "status": "ok"
+  },
+  {
+    "ts": 1700067791,
+    "module": "worker",
+    "event": "AUTH_FAIL",
+    "seq": "worker_AUTH_FAIL",
+    "duration_ms": 1161,
+    "status": "err"
+  },
+  {
+    "ts": 1700067817,
+    "module": "gateway",
+    "event": "LOGOUT",
+    "seq": "gateway_LOGOUT",
+    "duration_ms": 2996,
+    "status": "ok"
+  },
+  {
+    "ts": 1700067882,
+    "module": "monitor",
+    "event": "QUERY",
+    "seq": "monitor_QUERY",
+    "duration_ms": 3216,
+    "status": "ok"
+  },
+  {
+    "ts": 1700068004,
+    "module": "cache",
+    "event": "CACHE_HIT",
+    "seq": "cache_CACHE_HIT",
+    "duration_ms": 443,
+    "status": "ok"
+  },
+  {
+    "ts": 1700068117,
+    "module": "cache",
+    "event": "LOGOUT",
+    "seq": "cache_LOGOUT",
+    "duration_ms": 4442,
+    "status": "ok"
+  },
+  {
+    "ts": 1700068277,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 1520,
+    "status": "ok"
+  },
+  {
+    "ts": 1700068525,
+    "module": "monitor",
+    "event": "LOGOUT",
+    "seq": "monitor_LOGOUT",
+    "duration_ms": 659,
+    "status": "ok"
+  },
+  {
+    "ts": 1700068725,
+    "module": "db",
+    "event": "TIMEOUT",
+    "seq": "db_TIMEOUT",
+    "duration_ms": 2194,
+    "status": "ok"
+  },
+  {
+    "ts": 1700069011,
+    "module": "db",
+    "event": "AUTH_FAIL",
+    "seq": "db_AUTH_FAIL",
+    "duration_ms": 2881,
+    "status": "err"
+  },
+  {
+    "ts": 1700069257,
+    "module": "api",
+    "event": "ERROR",
+    "seq": "api_ERROR",
+    "duration_ms": 4522,
+    "status": "err"
+  },
+  {
+    "ts": 1700069356,
+    "module": "auth",
+    "event": "LOGIN",
+    "seq": "auth_LOGIN",
+    "duration_ms": 110,
+    "status": "ok"
+  },
+  {
+    "ts": 1700069470,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 2603,
+    "status": "ok"
+  },
+  {
+    "ts": 1700069530,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 2467,
+    "status": "ok"
+  },
+  {
+    "ts": 1700069737,
+    "module": "cache",
+    "event": "CACHE_HIT",
+    "seq": "cache_CACHE_HIT",
+    "duration_ms": 1366,
+    "status": "ok"
+  },
+  {
+    "ts": 1700069936,
+    "module": "gateway",
+    "event": "ERROR",
+    "seq": "gateway_ERROR",
+    "duration_ms": 1709,
+    "status": "err"
+  },
+  {
+    "ts": 1700070111,
+    "module": "gateway",
+    "event": "TIMEOUT",
+    "seq": "gateway_TIMEOUT",
+    "duration_ms": 3988,
+    "status": "ok"
+  },
+  {
+    "ts": 1700070188,
+    "module": "scheduler",
+    "event": "TIMEOUT",
+    "seq": "scheduler_TIMEOUT",
+    "duration_ms": 4271,
+    "status": "ok"
+  },
+  {
+    "ts": 1700070400,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 4875,
+    "status": "ok"
+  },
+  {
+    "ts": 1700070451,
+    "module": "gateway",
+    "event": "ERROR",
+    "seq": "gateway_ERROR",
+    "duration_ms": 2857,
+    "status": "err"
+  },
+  {
+    "ts": 1700070692,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 99,
+    "status": "err"
+  },
+  {
+    "ts": 1700070932,
+    "module": "scheduler",
+    "event": "ERROR",
+    "seq": "scheduler_ERROR",
+    "duration_ms": 4742,
+    "status": "err"
+  },
+  {
+    "ts": 1700071102,
+    "module": "cache",
+    "event": "CACHE_HIT",
+    "seq": "cache_CACHE_HIT",
+    "duration_ms": 4694,
+    "status": "ok"
+  },
+  {
+    "ts": 1700071324,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 2859,
+    "status": "ok"
+  },
+  {
+    "ts": 1700071350,
+    "module": "gateway",
+    "event": "QUERY",
+    "seq": "gateway_QUERY",
+    "duration_ms": 4443,
+    "status": "ok"
+  },
+  {
+    "ts": 1700071492,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 3553,
+    "status": "ok"
+  },
+  {
+    "ts": 1700071642,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 2996,
+    "status": "ok"
+  },
+  {
+    "ts": 1700071877,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 2633,
+    "status": "ok"
+  },
+  {
+    "ts": 1700071980,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 878,
+    "status": "ok"
+  },
+  {
+    "ts": 1700072025,
+    "module": "monitor",
+    "event": "QUERY",
+    "seq": "monitor_QUERY",
+    "duration_ms": 4611,
+    "status": "ok"
+  },
+  {
+    "ts": 1700072158,
+    "module": "auth",
+    "event": "LOGOUT",
+    "seq": "auth_LOGOUT",
+    "duration_ms": 974,
+    "status": "ok"
+  },
+  {
+    "ts": 1700072175,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 4926,
+    "status": "ok"
+  },
+  {
+    "ts": 1700072441,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 4191,
+    "status": "ok"
+  },
+  {
+    "ts": 1700072710,
+    "module": "monitor",
+    "event": "TIMEOUT",
+    "seq": "monitor_TIMEOUT",
+    "duration_ms": 2878,
+    "status": "ok"
+  },
+  {
+    "ts": 1700072886,
+    "module": "auth",
+    "event": "RETRY",
+    "seq": "auth_RETRY",
+    "duration_ms": 3899,
+    "status": "ok"
+  },
+  {
+    "ts": 1700072945,
+    "module": "cache",
+    "event": "ERROR",
+    "seq": "cache_ERROR",
+    "duration_ms": 992,
+    "status": "err"
+  },
+  {
+    "ts": 1700073148,
+    "module": "monitor",
+    "event": "QUERY",
+    "seq": "monitor_QUERY",
+    "duration_ms": 2770,
+    "status": "ok"
+  },
+  {
+    "ts": 1700073258,
+    "module": "cache",
+    "event": "CACHE_HIT",
+    "seq": "cache_CACHE_HIT",
+    "duration_ms": 610,
+    "status": "ok"
+  },
+  {
+    "ts": 1700073453,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 3435,
+    "status": "ok"
+  },
+  {
+    "ts": 1700073661,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 1742,
+    "status": "ok"
+  },
+  {
+    "ts": 1700073728,
+    "module": "auth",
+    "event": "AUTH_FAIL",
+    "seq": "auth_AUTH_FAIL",
+    "duration_ms": 642,
+    "status": "err"
+  },
+  {
+    "ts": 1700073795,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 2695,
+    "status": "ok"
+  },
+  {
+    "ts": 1700073859,
+    "module": "cache",
+    "event": "LOGOUT",
+    "seq": "cache_LOGOUT",
+    "duration_ms": 3316,
+    "status": "ok"
+  },
+  {
+    "ts": 1700074057,
+    "module": "api",
+    "event": "TIMEOUT",
+    "seq": "api_TIMEOUT",
+    "duration_ms": 3122,
+    "status": "ok"
+  },
+  {
+    "ts": 1700074181,
+    "module": "monitor",
+    "event": "AUTH_FAIL",
+    "seq": "monitor_AUTH_FAIL",
+    "duration_ms": 3744,
+    "status": "err"
+  },
+  {
+    "ts": 1700074430,
+    "module": "cache",
+    "event": "QUERY",
+    "seq": "cache_QUERY",
+    "duration_ms": 4058,
+    "status": "ok"
+  },
+  {
+    "ts": 1700074601,
+    "module": "worker",
+    "event": "RETRY",
+    "seq": "worker_RETRY",
+    "duration_ms": 1518,
+    "status": "ok"
+  },
+  {
+    "ts": 1700074648,
+    "module": "cache",
+    "event": "LOGOUT",
+    "seq": "cache_LOGOUT",
+    "duration_ms": 2510,
+    "status": "ok"
+  },
+  {
+    "ts": 1700074682,
+    "module": "gateway",
+    "event": "TIMEOUT",
+    "seq": "gateway_TIMEOUT",
+    "duration_ms": 2111,
+    "status": "ok"
+  },
+  {
+    "ts": 1700074780,
+    "module": "monitor",
+    "event": "DELETE",
+    "seq": "monitor_DELETE",
+    "duration_ms": 590,
+    "status": "ok"
+  },
+  {
+    "ts": 1700074962,
+    "module": "auth",
+    "event": "LOGOUT",
+    "seq": "auth_LOGOUT",
+    "duration_ms": 175,
+    "status": "ok"
+  },
+  {
+    "ts": 1700075232,
+    "module": "gateway",
+    "event": "QUERY",
+    "seq": "gateway_QUERY",
+    "duration_ms": 218,
+    "status": "ok"
+  },
+  {
+    "ts": 1700075324,
+    "module": "db",
+    "event": "TIMEOUT",
+    "seq": "db_TIMEOUT",
+    "duration_ms": 1571,
+    "status": "ok"
+  },
+  {
+    "ts": 1700075480,
+    "module": "api",
+    "event": "UPDATE",
+    "seq": "api_UPDATE",
+    "duration_ms": 1677,
+    "status": "ok"
+  },
+  {
+    "ts": 1700075763,
+    "module": "api",
+    "event": "ERROR",
+    "seq": "api_ERROR",
+    "duration_ms": 1463,
+    "status": "err"
+  },
+  {
+    "ts": 1700075791,
+    "module": "db",
+    "event": "QUERY",
+    "seq": "db_QUERY",
+    "duration_ms": 3817,
+    "status": "ok"
+  },
+  {
+    "ts": 1700075966,
+    "module": "worker",
+    "event": "DELETE",
+    "seq": "worker_DELETE",
+    "duration_ms": 399,
+    "status": "ok"
+  },
+  {
+    "ts": 1700076013,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 572,
+    "status": "ok"
+  },
+  {
+    "ts": 1700076129,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 1369,
+    "status": "ok"
+  },
+  {
+    "ts": 1700076409,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 4466,
+    "status": "ok"
+  },
+  {
+    "ts": 1700076582,
+    "module": "cache",
+    "event": "AUTH_FAIL",
+    "seq": "cache_AUTH_FAIL",
+    "duration_ms": 4201,
+    "status": "err"
+  },
+  {
+    "ts": 1700076663,
+    "module": "worker",
+    "event": "DELETE",
+    "seq": "worker_DELETE",
+    "duration_ms": 1709,
+    "status": "ok"
+  },
+  {
+    "ts": 1700076926,
+    "module": "worker",
+    "event": "DELETE",
+    "seq": "worker_DELETE",
+    "duration_ms": 686,
+    "status": "ok"
+  },
+  {
+    "ts": 1700077043,
+    "module": "auth",
+    "event": "AUTH_FAIL",
+    "seq": "auth_AUTH_FAIL",
+    "duration_ms": 1076,
+    "status": "err"
+  },
+  {
+    "ts": 1700077062,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 4676,
+    "status": "ok"
+  },
+  {
+    "ts": 1700077345,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 3358,
+    "status": "ok"
+  },
+  {
+    "ts": 1700077353,
+    "module": "cache",
+    "event": "QUERY",
+    "seq": "cache_QUERY",
+    "duration_ms": 1967,
+    "status": "ok"
+  },
+  {
+    "ts": 1700077516,
+    "module": "scheduler",
+    "event": "CACHE_HIT",
+    "seq": "scheduler_CACHE_HIT",
+    "duration_ms": 3191,
+    "status": "ok"
+  },
+  {
+    "ts": 1700077590,
+    "module": "api",
+    "event": "UPDATE",
+    "seq": "api_UPDATE",
+    "duration_ms": 1467,
+    "status": "ok"
+  },
+  {
+    "ts": 1700077753,
+    "module": "auth",
+    "event": "ERROR",
+    "seq": "auth_ERROR",
+    "duration_ms": 1184,
+    "status": "err"
+  },
+  {
+    "ts": 1700077866,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 4622,
+    "status": "ok"
+  },
+  {
+    "ts": 1700077944,
+    "module": "db",
+    "event": "LOGOUT",
+    "seq": "db_LOGOUT",
+    "duration_ms": 4851,
+    "status": "ok"
+  },
+  {
+    "ts": 1700078164,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 371,
+    "status": "ok"
+  },
+  {
+    "ts": 1700078273,
+    "module": "monitor",
+    "event": "LOGOUT",
+    "seq": "monitor_LOGOUT",
+    "duration_ms": 1749,
+    "status": "ok"
+  },
+  {
+    "ts": 1700078456,
+    "module": "auth",
+    "event": "ERROR",
+    "seq": "auth_ERROR",
+    "duration_ms": 3643,
+    "status": "err"
+  },
+  {
+    "ts": 1700078747,
+    "module": "worker",
+    "event": "RETRY",
+    "seq": "worker_RETRY",
+    "duration_ms": 3959,
+    "status": "ok"
+  },
+  {
+    "ts": 1700078867,
+    "module": "scheduler",
+    "event": "RETRY",
+    "seq": "scheduler_RETRY",
+    "duration_ms": 3158,
+    "status": "ok"
+  },
+  {
+    "ts": 1700078917,
+    "module": "db",
+    "event": "AUTH_FAIL",
+    "seq": "db_AUTH_FAIL",
+    "duration_ms": 4805,
+    "status": "err"
+  },
+  {
+    "ts": 1700078985,
+    "module": "db",
+    "event": "AUTH_FAIL",
+    "seq": "db_AUTH_FAIL",
+    "duration_ms": 4821,
+    "status": "err"
+  },
+  {
+    "ts": 1700079276,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 3446,
+    "status": "ok"
+  },
+  {
+    "ts": 1700079282,
+    "module": "monitor",
+    "event": "ERROR",
+    "seq": "monitor_ERROR",
+    "duration_ms": 625,
+    "status": "err"
+  },
+  {
+    "ts": 1700079304,
+    "module": "api",
+    "event": "LOGOUT",
+    "seq": "api_LOGOUT",
+    "duration_ms": 1713,
+    "status": "ok"
+  },
+  {
+    "ts": 1700079459,
+    "module": "monitor",
+    "event": "RETRY",
+    "seq": "monitor_RETRY",
+    "duration_ms": 2287,
+    "status": "ok"
+  },
+  {
+    "ts": 1700079577,
+    "module": "db",
+    "event": "LOGOUT",
+    "seq": "db_LOGOUT",
+    "duration_ms": 62,
+    "status": "ok"
+  },
+  {
+    "ts": 1700079715,
+    "module": "auth",
+    "event": "LOGIN",
+    "seq": "auth_LOGIN",
+    "duration_ms": 943,
+    "status": "ok"
+  },
+  {
+    "ts": 1700080003,
+    "module": "worker",
+    "event": "CACHE_HIT",
+    "seq": "worker_CACHE_HIT",
+    "duration_ms": 496,
+    "status": "ok"
+  },
+  {
+    "ts": 1700080293,
+    "module": "gateway",
+    "event": "TIMEOUT",
+    "seq": "gateway_TIMEOUT",
+    "duration_ms": 1870,
+    "status": "ok"
+  },
+  {
+    "ts": 1700080431,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 59,
+    "status": "ok"
+  },
+  {
+    "ts": 1700080606,
+    "module": "monitor",
+    "event": "QUERY",
+    "seq": "monitor_QUERY",
+    "duration_ms": 317,
+    "status": "ok"
+  },
+  {
+    "ts": 1700080647,
+    "module": "auth",
+    "event": "ERROR",
+    "seq": "auth_ERROR",
+    "duration_ms": 1463,
+    "status": "err"
+  },
+  {
+    "ts": 1700080934,
+    "module": "worker",
+    "event": "RETRY",
+    "seq": "worker_RETRY",
+    "duration_ms": 4198,
+    "status": "ok"
+  },
+  {
+    "ts": 1700081095,
+    "module": "cache",
+    "event": "ERROR",
+    "seq": "cache_ERROR",
+    "duration_ms": 343,
+    "status": "err"
+  },
+  {
+    "ts": 1700081108,
+    "module": "db",
+    "event": "AUTH_FAIL",
+    "seq": "db_AUTH_FAIL",
+    "duration_ms": 294,
+    "status": "err"
+  },
+  {
+    "ts": 1700081243,
+    "module": "cache",
+    "event": "DELETE",
+    "seq": "cache_DELETE",
+    "duration_ms": 4714,
+    "status": "ok"
+  },
+  {
+    "ts": 1700081340,
+    "module": "cache",
+    "event": "ERROR",
+    "seq": "cache_ERROR",
+    "duration_ms": 3706,
+    "status": "err"
+  },
+  {
+    "ts": 1700081484,
+    "module": "monitor",
+    "event": "QUERY",
+    "seq": "monitor_QUERY",
+    "duration_ms": 3066,
+    "status": "ok"
+  },
+  {
+    "ts": 1700081610,
+    "module": "gateway",
+    "event": "DELETE",
+    "seq": "gateway_DELETE",
+    "duration_ms": 3602,
+    "status": "ok"
+  },
+  {
+    "ts": 1700081706,
+    "module": "scheduler",
+    "event": "TIMEOUT",
+    "seq": "scheduler_TIMEOUT",
+    "duration_ms": 2550,
+    "status": "ok"
+  },
+  {
+    "ts": 1700081957,
+    "module": "monitor",
+    "event": "QUERY",
+    "seq": "monitor_QUERY",
+    "duration_ms": 4680,
+    "status": "ok"
+  },
+  {
+    "ts": 1700082139,
+    "module": "api",
+    "event": "ERROR",
+    "seq": "api_ERROR",
+    "duration_ms": 4008,
+    "status": "err"
+  },
+  {
+    "ts": 1700082434,
+    "module": "monitor",
+    "event": "CACHE_HIT",
+    "seq": "monitor_CACHE_HIT",
+    "duration_ms": 883,
+    "status": "ok"
+  },
+  {
+    "ts": 1700082443,
+    "module": "auth",
+    "event": "CACHE_HIT",
+    "seq": "auth_CACHE_HIT",
+    "duration_ms": 2368,
+    "status": "ok"
+  },
+  {
+    "ts": 1700082704,
+    "module": "auth",
+    "event": "CACHE_HIT",
+    "seq": "auth_CACHE_HIT",
+    "duration_ms": 1712,
+    "status": "ok"
+  },
+  {
+    "ts": 1700082844,
+    "module": "api",
+    "event": "TIMEOUT",
+    "seq": "api_TIMEOUT",
+    "duration_ms": 670,
+    "status": "ok"
+  },
+  {
+    "ts": 1700083062,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 3198,
+    "status": "ok"
+  },
+  {
+    "ts": 1700083188,
+    "module": "cache",
+    "event": "TIMEOUT",
+    "seq": "cache_TIMEOUT",
+    "duration_ms": 2466,
+    "status": "ok"
+  },
+  {
+    "ts": 1700083200,
+    "module": "gateway",
+    "event": "QUERY",
+    "seq": "gateway_QUERY",
+    "duration_ms": 3022,
+    "status": "ok"
+  },
+  {
+    "ts": 1700083291,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 3821,
+    "status": "ok"
+  },
+  {
+    "ts": 1700083322,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 244,
+    "status": "ok"
+  },
+  {
+    "ts": 1700083534,
+    "module": "db",
+    "event": "TIMEOUT",
+    "seq": "db_TIMEOUT",
+    "duration_ms": 1879,
+    "status": "ok"
+  },
+  {
+    "ts": 1700083789,
+    "module": "cache",
+    "event": "RETRY",
+    "seq": "cache_RETRY",
+    "duration_ms": 1858,
+    "status": "ok"
+  },
+  {
+    "ts": 1700083856,
+    "module": "monitor",
+    "event": "QUERY",
+    "seq": "monitor_QUERY",
+    "duration_ms": 82,
+    "status": "ok"
+  },
+  {
+    "ts": 1700084053,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 946,
+    "status": "ok"
+  },
+  {
+    "ts": 1700084242,
+    "module": "db",
+    "event": "ERROR",
+    "seq": "db_ERROR",
+    "duration_ms": 1579,
+    "status": "err"
+  },
+  {
+    "ts": 1700084332,
+    "module": "scheduler",
+    "event": "ERROR",
+    "seq": "scheduler_ERROR",
+    "duration_ms": 3811,
+    "status": "err"
+  },
+  {
+    "ts": 1700084459,
+    "module": "worker",
+    "event": "UPDATE",
+    "seq": "worker_UPDATE",
+    "duration_ms": 2723,
+    "status": "ok"
+  },
+  {
+    "ts": 1700084699,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 226,
+    "status": "ok"
+  },
+  {
+    "ts": 1700084990,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 4498,
+    "status": "ok"
+  },
+  {
+    "ts": 1700085021,
+    "module": "db",
+    "event": "QUERY",
+    "seq": "db_QUERY",
+    "duration_ms": 3441,
+    "status": "ok"
+  },
+  {
+    "ts": 1700085128,
+    "module": "api",
+    "event": "TIMEOUT",
+    "seq": "api_TIMEOUT",
+    "duration_ms": 3249,
+    "status": "ok"
+  },
+  {
+    "ts": 1700085188,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 2547,
+    "status": "ok"
+  },
+  {
+    "ts": 1700085238,
+    "module": "api",
+    "event": "LOGOUT",
+    "seq": "api_LOGOUT",
+    "duration_ms": 655,
+    "status": "ok"
+  },
+  {
+    "ts": 1700085405,
+    "module": "api",
+    "event": "TIMEOUT",
+    "seq": "api_TIMEOUT",
+    "duration_ms": 1395,
+    "status": "ok"
+  },
+  {
+    "ts": 1700085681,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 3726,
+    "status": "ok"
+  },
+  {
+    "ts": 1700085885,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 491,
+    "status": "ok"
+  },
+  {
+    "ts": 1700086000,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 3228,
+    "status": "ok"
+  },
+  {
+    "ts": 1700086011,
+    "module": "db",
+    "event": "ERROR",
+    "seq": "db_ERROR",
+    "duration_ms": 3118,
+    "status": "err"
+  },
+  {
+    "ts": 1700086048,
+    "module": "db",
+    "event": "QUERY",
+    "seq": "db_QUERY",
+    "duration_ms": 669,
+    "status": "ok"
+  },
+  {
+    "ts": 1700086199,
+    "module": "auth",
+    "event": "UPDATE",
+    "seq": "auth_UPDATE",
+    "duration_ms": 4573,
+    "status": "ok"
+  },
+  {
+    "ts": 1700086384,
+    "module": "gateway",
+    "event": "AUTH_FAIL",
+    "seq": "gateway_AUTH_FAIL",
+    "duration_ms": 1605,
+    "status": "err"
+  },
+  {
+    "ts": 1700086491,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 2563,
+    "status": "ok"
+  },
+  {
+    "ts": 1700086497,
+    "module": "scheduler",
+    "event": "AUTH_FAIL",
+    "seq": "scheduler_AUTH_FAIL",
+    "duration_ms": 1039,
+    "status": "err"
+  },
+  {
+    "ts": 1700086782,
+    "module": "cache",
+    "event": "DELETE",
+    "seq": "cache_DELETE",
+    "duration_ms": 4459,
+    "status": "ok"
+  },
+  {
+    "ts": 1700087034,
+    "module": "auth",
+    "event": "AUTH_FAIL",
+    "seq": "auth_AUTH_FAIL",
+    "duration_ms": 1692,
+    "status": "err"
+  },
+  {
+    "ts": 1700087162,
+    "module": "api",
+    "event": "UPDATE",
+    "seq": "api_UPDATE",
+    "duration_ms": 372,
+    "status": "ok"
+  },
+  {
+    "ts": 1700087401,
+    "module": "worker",
+    "event": "RETRY",
+    "seq": "worker_RETRY",
+    "duration_ms": 4159,
+    "status": "ok"
+  },
+  {
+    "ts": 1700087635,
+    "module": "api",
+    "event": "QUERY",
+    "seq": "api_QUERY",
+    "duration_ms": 788,
+    "status": "ok"
+  },
+  {
+    "ts": 1700087730,
+    "module": "scheduler",
+    "event": "QUERY",
+    "seq": "scheduler_QUERY",
+    "duration_ms": 500,
+    "status": "ok"
+  },
+  {
+    "ts": 1700088012,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 368,
+    "status": "ok"
+  },
+  {
+    "ts": 1700088067,
+    "module": "auth",
+    "event": "QUERY",
+    "seq": "auth_QUERY",
+    "duration_ms": 3671,
+    "status": "ok"
+  },
+  {
+    "ts": 1700088096,
+    "module": "worker",
+    "event": "QUERY",
+    "seq": "worker_QUERY",
+    "duration_ms": 4257,
+    "status": "ok"
+  },
+  {
+    "ts": 1700088098,
+    "module": "worker",
+    "event": "UPDATE",
+    "seq": "worker_UPDATE",
+    "duration_ms": 1883,
+    "status": "ok"
+  },
+  {
+    "ts": 1700088330,
+    "module": "db",
+    "event": "LOGIN",
+    "seq": "db_LOGIN",
+    "duration_ms": 1802,
+    "status": "ok"
+  },
+  {
+    "ts": 1700088577,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 3508,
+    "status": "ok"
+  },
+  {
+    "ts": 1700088807,
+    "module": "worker",
+    "event": "UPDATE",
+    "seq": "worker_UPDATE",
+    "duration_ms": 3897,
+    "status": "ok"
+  },
+  {
+    "ts": 1700088938,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 4595,
+    "status": "ok"
+  },
+  {
+    "ts": 1700089171,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 2520,
+    "status": "ok"
+  },
+  {
+    "ts": 1700089329,
+    "module": "gateway",
+    "event": "QUERY",
+    "seq": "gateway_QUERY",
+    "duration_ms": 4648,
+    "status": "ok"
+  },
+  {
+    "ts": 1700089627,
+    "module": "scheduler",
+    "event": "ERROR",
+    "seq": "scheduler_ERROR",
+    "duration_ms": 3058,
+    "status": "err"
+  },
+  {
+    "ts": 1700089809,
+    "module": "api",
+    "event": "UPDATE",
+    "seq": "api_UPDATE",
+    "duration_ms": 4443,
+    "status": "ok"
+  },
+  {
+    "ts": 1700089876,
+    "module": "worker",
+    "event": "CACHE_HIT",
+    "seq": "worker_CACHE_HIT",
+    "duration_ms": 2722,
+    "status": "ok"
+  },
+  {
+    "ts": 1700089921,
+    "module": "cache",
+    "event": "QUERY",
+    "seq": "cache_QUERY",
+    "duration_ms": 1347,
+    "status": "ok"
+  },
+  {
+    "ts": 1700089924,
+    "module": "db",
+    "event": "RETRY",
+    "seq": "db_RETRY",
+    "duration_ms": 3520,
+    "status": "ok"
+  },
+  {
+    "ts": 1700089954,
+    "module": "db",
+    "event": "UPDATE",
+    "seq": "db_UPDATE",
+    "duration_ms": 945,
+    "status": "ok"
+  },
+  {
+    "ts": 1700090099,
+    "module": "gateway",
+    "event": "TIMEOUT",
+    "seq": "gateway_TIMEOUT",
+    "duration_ms": 3605,
+    "status": "ok"
+  },
+  {
+    "ts": 1700090174,
+    "module": "gateway",
+    "event": "CACHE_HIT",
+    "seq": "gateway_CACHE_HIT",
+    "duration_ms": 2567,
+    "status": "ok"
+  },
+  {
+    "ts": 1700090253,
+    "module": "worker",
+    "event": "LOGIN",
+    "seq": "worker_LOGIN",
+    "duration_ms": 729,
+    "status": "ok"
+  },
+  {
+    "ts": 1700090286,
+    "module": "cache",
+    "event": "UPDATE",
+    "seq": "cache_UPDATE",
+    "duration_ms": 1625,
+    "status": "ok"
+  },
+  {
+    "ts": 1700090292,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 287,
+    "status": "ok"
+  },
+  {
+    "ts": 1700090584,
+    "module": "db",
+    "event": "TIMEOUT",
+    "seq": "db_TIMEOUT",
+    "duration_ms": 821,
+    "status": "ok"
+  },
+  {
+    "ts": 1700090674,
+    "module": "monitor",
+    "event": "UPDATE",
+    "seq": "monitor_UPDATE",
+    "duration_ms": 2013,
+    "status": "ok"
+  },
+  {
+    "ts": 1700090742,
+    "module": "gateway",
+    "event": "LOGIN",
+    "seq": "gateway_LOGIN",
+    "duration_ms": 1384,
+    "status": "ok"
+  },
+  {
+    "ts": 1700091014,
+    "module": "worker",
+    "event": "QUERY",
+    "seq": "worker_QUERY",
+    "duration_ms": 4813,
+    "status": "ok"
+  },
+  {
+    "ts": 1700091138,
+    "module": "cache",
+    "event": "LOGOUT",
+    "seq": "cache_LOGOUT",
+    "duration_ms": 2138,
+    "status": "ok"
+  },
+  {
+    "ts": 1700091246,
+    "module": "db",
+    "event": "CACHE_HIT",
+    "seq": "db_CACHE_HIT",
+    "duration_ms": 543,
+    "status": "ok"
+  },
+  {
+    "ts": 1700091308,
+    "module": "scheduler",
+    "event": "TIMEOUT",
+    "seq": "scheduler_TIMEOUT",
+    "duration_ms": 4600,
+    "status": "ok"
+  },
+  {
+    "ts": 1700091472,
+    "module": "db",
+    "event": "DELETE",
+    "seq": "db_DELETE",
+    "duration_ms": 584,
+    "status": "ok"
+  },
+  {
+    "ts": 1700091583,
+    "module": "monitor",
+    "event": "DELETE",
+    "seq": "monitor_DELETE",
+    "duration_ms": 97,
+    "status": "ok"
+  },
+  {
+    "ts": 1700091740,
+    "module": "db",
+    "event": "AUTH_FAIL",
+    "seq": "db_AUTH_FAIL",
+    "duration_ms": 4342,
+    "status": "err"
+  },
+  {
+    "ts": 1700091780,
+    "module": "cache",
+    "event": "LOGIN",
+    "seq": "cache_LOGIN",
+    "duration_ms": 3174,
+    "status": "ok"
+  },
+  {
+    "ts": 1700092006,
+    "module": "scheduler",
+    "event": "UPDATE",
+    "seq": "scheduler_UPDATE",
+    "duration_ms": 1292,
+    "status": "ok"
+  },
+  {
+    "ts": 1700092199,
+    "module": "api",
+    "event": "TIMEOUT",
+    "seq": "api_TIMEOUT",
+    "duration_ms": 4793,
+    "status": "ok"
+  },
+  {
+    "ts": 1700092480,
+    "module": "api",
+    "event": "RETRY",
+    "seq": "api_RETRY",
+    "duration_ms": 3283,
+    "status": "ok"
+  },
+  {
+    "ts": 1700092766,
+    "module": "worker",
+    "event": "TIMEOUT",
+    "seq": "worker_TIMEOUT",
+    "duration_ms": 1087,
+    "status": "ok"
+  },
+  {
+    "ts": 1700092857,
+    "module": "scheduler",
+    "event": "DELETE",
+    "seq": "scheduler_DELETE",
+    "duration_ms": 1137,
+    "status": "ok"
+  },
+  {
+    "ts": 1700093017,
+    "module": "gateway",
+    "event": "RETRY",
+    "seq": "gateway_RETRY",
+    "duration_ms": 94,
+    "status": "ok"
+  },
+  {
+    "ts": 1700093170,
+    "module": "api",
+    "event": "QUERY",
+    "seq": "api_QUERY",
+    "duration_ms": 2913,
+    "status": "ok"
+  }
+]
