@@ -1,0 +1,10 @@
+# Neuryx — requirements
+#
+# Core engine runs on Python stdlib only (no entries needed).
+# Optional packages below unlock extra features.
+
+# Visualisation — 8-panel dashboard after each session
+matplotlib>=3.7.0
+
+# Excel support — enables .xlsx / .xls loading
+openpyxl>=3.1.0
