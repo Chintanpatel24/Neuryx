@@ -35,6 +35,7 @@ Under the hood it is a **causal (decoder-only) transformer** with:
 ```bash
 git clone https://github.com/Chintanpatel24/neuryx.git
 cd neuryx
+python3 neuryx.py
 
 # Optional but recommended — for charts
 pip install matplotlib openpyxl
