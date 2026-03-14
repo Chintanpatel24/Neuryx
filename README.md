@@ -7,23 +7,10 @@
 >## **General-Purpose Neural Sequence Engine**
 
 - A decoder-only transformer built entirely from scratch in pure Python — no PyTorch, no TensorFlow, no NumPy. Train it on *any* sequential data, then generate new sequences from it.
-   
-```
-  ███╗   ██╗███████╗██╗   ██╗██████╗ ██╗   ██╗██╗  ██╗
-  ████╗  ██║██╔════╝██║   ██║██╔══██╗╚██╗ ██╔╝╚██╗██╔╝
-  ██╔██╗ ██║█████╗  ██║   ██║██████╔╝ ╚████╔╝  ╚███╔╝
-  ██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗  ╚██╔╝   ██╔██╗
-  ██║ ╚████║███████╗╚██████╔╝██║  ██║   ██║   ██╔╝ ██╗
-  ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 
+>## What is Neuryx?
 
-```
-
----
-
-## What is Neuryx?
-
-Neuryx is a **general-purpose sequence learner**. You give it data; it learns patterns; it generates new data that follows those patterns. It does not care what the data *means* — names, weather events, server logs, DNA sequences, user actions, or any other text-based sequence will work.
+- Neuryx is a **general-purpose sequence learner**. You give it data; it learns patterns; it generates new data that follows those patterns. It does not care what the data *means* — names, weather events, server logs, DNA sequences, user actions, or any other text-based sequence will work.
 
 Under the hood it is a **causal (decoder-only) transformer** with:
 - Scalar-level automatic differentiation (no ML library required)
@@ -34,7 +21,7 @@ Under the hood it is a **causal (decoder-only) transformer** with:
 
 ---
 
-## Quick Start
+>## Quick Start
 
 ```bash
 git clone https://github.com/Chintanpatel24/neuryx.git
@@ -53,7 +40,7 @@ python neuryx.py --train data/sample_names.txt --predict data/sample_names.txt
 
 ---
 
-## Input Format Menu
+>## Input Format Menu
 
 When you run Neuryx, it presents a numbered menu for every file you load:
 
@@ -70,7 +57,7 @@ Pick the number that matches your file. For CSV / Excel / TSV you will also be a
 
 ---
 
-## Included Sample Data
+>## Included Sample Data
 
 | File | Format | Rows | Use it for |
 |------|--------|------|------------|
@@ -83,7 +70,7 @@ Pick the number that matches your file. For CSV / Excel / TSV you will also be a
 
 ---
 
-## CLI Flags
+>## CLI Flags
 
 ```
 python neuryx.py [OPTIONS]
@@ -100,7 +87,7 @@ python neuryx.py [OPTIONS]
   --no-chart            Skip matplotlib dashboard
 ```
 
-### Temperature
+>### Temperature
 
 | Value | Effect |
 |-------|--------|
@@ -155,7 +142,7 @@ python neuryx.py \
 
 ---
 
-## Repository Structure
+>## Repository Structure
 
 ```
 neuryx/
@@ -189,7 +176,7 @@ neuryx/
 
 ---
 
-## How It Works
+>## How It Works
 
 ### 1. Data loading (`intake/portal.py`)
 Your file is loaded and converted to a flat `list[str]` regardless of format.
@@ -211,7 +198,7 @@ Seed documents are encoded and fed to the model. It predicts the next token, sam
 
 ---
 
-## Requirements
+>## Requirements
 
 | Package | Required? | Purpose |
 |---------|-----------|---------|
