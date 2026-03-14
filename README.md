@@ -1,8 +1,12 @@
-# Neuryx
+<div align=center>
+   
+<img src="image/neuryx.png">
 
-**General-Purpose Neural Sequence Engine**
+</div>
 
-A decoder-only transformer built entirely from scratch in pure Python — no PyTorch, no TensorFlow, no NumPy. Train it on *any* sequential data, then generate new sequences from it.
+>## **General-Purpose Neural Sequence Engine**
+
+- A decoder-only transformer built entirely from scratch in pure Python — no PyTorch, no TensorFlow, no NumPy. Train it on *any* sequential data, then generate new sequences from it.
    
 ```
   ███╗   ██╗███████╗██╗   ██╗██████╗ ██╗   ██╗██╗  ██╗
