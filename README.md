@@ -24,7 +24,7 @@ Under the hood it is a **causal (decoder-only) transformer** with:
 >## Quick Start
 
 ```bash
-git clone https://github.com/Chintanpatel24/neuryx.git
+git clone https://github.com/Chintanpatel24/Neuryx.git
 cd neuryx
 python3 neuryx.py
 
