@@ -210,9 +210,3 @@ Install optionals:
 ```bash
 pip install matplotlib openpyxl
 ```
-
----
-
-## License
-
-MIT License. See `LICENSE` for details.
